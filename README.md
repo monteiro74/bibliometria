@@ -230,6 +230,12 @@ Captura de tela do [CitNetExplorer](https://www.citnetexplorer.nl/screenshots):
 ![https://www.citnetexplorer.nl/media/images/content/317f32c48e94823ad4a7a5f7b4501582_large.png](https://www.citnetexplorer.nl/media/images/content/317f32c48e94823ad4a7a5f7b4501582_large.png)
 Fonte da figura: https://www.citnetexplorer.nl/media/images/content/317f32c48e94823ad4a7a5f7b4501582_large.png
 
+Captura de tela do [SciMAT](https://sci2s.ugr.es/scimat/index.html):
+![https://sci2s.ugr.es/scimat/index.html](https://sci2s.ugr.es/scimat/index.html)
+Fonte da figura: https://sci2s.ugr.es/scimat/index.html
+
+Exemplos de visualizações com o [Litmaps](https://www.litmaps.com/features#visualize).
+
 ---
 # 8. Datasets
 
