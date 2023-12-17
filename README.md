@@ -175,6 +175,11 @@ Observação:
 | Cytoscape | https://cytoscape.org/ |
 | VOSviewer | https://www.vosviewer.com/ |
 | Bibliomaps | https://www.sebastian-grauwin.com/bibliomaps/ |
+| Connected papers | https://www.connectedpapers.com/ |
+| Citnet | https://www.citnetexplorer.nl/ |
+| Scimat | https://sci2s.ugr.es/scimat/ |
+| Litmaps | https://www.litmaps.com/ |
+
 
 ---
 # 8. Datasets
@@ -183,6 +188,9 @@ Observação:
 |--- | --- |
 | Data Mendeley | https://data.mendeley.com/ |
 | Datasketch | https://www.datasketch.co/ |
+| Oasisbr | https://oasisbr.ibict.br/vufind/ |
+| OpenAire | https://explore.openaire.eu/ |
+| Visão | https://visao.ibict.br/ |
 
 ---
 # 9. Visualização de dados
@@ -197,6 +205,7 @@ Observação:
 | Jigsaw | https://sites.cc.gatech.edu/gvu/ii/jigsaw/ |
 | IN-Spire | https://in-spire.pnnl.gov/ |
 | Citespace | http://cluster.cis.drexel.edu/%7Ecchen/citespace/ |
+| Visão | https://visao.ibict.br/ |
 
 ---
 # 10. Bibliometrics + github
@@ -212,7 +221,8 @@ Observação:
 |--- | --- |
 | Scholia | https://scholia.toolforge.org/ |
 | Orcid | https://orcid.org/ |
-
+| Sciprofile | https://sciprofiles.com/ |
+| Clarivate WoS | https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/researcher-profiles/ |
 ---
 # 12. BD, Catálogos de inovação, pesquisas
 
@@ -257,6 +267,7 @@ Observação:
 | Maxqda | https://www.maxqda.com/pricing#role-student |
 | Lumivero NVivo | https://lumivero.com/products/nvivo/ |
 | Provalis | https://provalisresearch.com/ |
+| Quirkos | https://www.quirkos.com/index.html |
 
 
 
