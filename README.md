@@ -41,10 +41,6 @@ Observação:
 - [15. Ferramentas para analytics](#15-ferramentas-para-analytics)
 - [16. Outras ferramentas e + referências](#16-outras-ferramentas-e--referências)
 - [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
-  - [Avisos](#avisos)
-  - [Licença](#licença)
-  - [Observação](#observação)
-  - [Estatísticas](#estatísticas)
 
 
 
@@ -309,26 +305,27 @@ Observação:
 ---
 # Avisos, licença, observações, estatísticas
 
-## Avisos
+
 ```
+Aviso:
 Este material esta recebendo atualizações frequentes. 
 As informações aqui contidas podem ser alteradas sem aviso prévio.
 ```
 
-## Licença
+
 ```
 Licença: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 ```
 
 
-## Observação
+
 ```
-Primeira postagem em: Dezembro/2023.
+Observação: Primeira postagem em: Dezembro/2023.
 ```
 
 
-## Estatísticas
+** Estatísticas **
 
 Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
 [![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/tutorial_python)
