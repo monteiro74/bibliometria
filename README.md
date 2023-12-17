@@ -54,7 +54,6 @@ Webometric Analyst http://lexiurl.wlv.ac.uk/index.html
 
 ResearchRabbit https://www.researchrabbit.ai/
 
-ResearchRabbit https://www.researchrabbit.ai/
 
 ---
 # 3. Suporte a escrita de artigos
