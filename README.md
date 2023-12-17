@@ -225,28 +225,26 @@ Observação:
 ---
 # Avisos, licença, observações, estatísticas
 
+## Avisos
 ```
-Aviso: Este material esta recebendo atualizações frequentes. 
+Este material esta recebendo atualizações frequentes. 
 As informações aqui contidas podem ser alteradas sem aviso prévio.
-Primeira postagem em: jun/2023. 
-Última atualização em: 28/jun/2023.
-
 ```
 
+## Licença
 ```
 Licença: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 ```
 
 
+## Observação
 ```
-Observações
-As informações aqui contidas podem ser alteradas sem aviso prévio.
-Primeira postagem (na antiga versão 1) em: Dezembro/2023.
+Primeira postagem em: Dezembro/2023.
 ```
 
 
-Estatísticas:
+## Estatísticas
 
 Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
 [![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/tutorial_python)
