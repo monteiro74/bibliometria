@@ -38,28 +38,28 @@ Observação:
 ---
 # 1. Tradutores
 
-Deepl https://www.deepl.com/pt-BR/translator
-
-Translito https://www.translito.com/portuguese/
-
-Quillbot https://quillbot.com/
+| Recurso | URL |
+|--- | --- |
+| Deepl | https://www.deepl.com/pt-BR/translator |
+| Translito | https://www.translito.com/portuguese/ |
+| Quillbot | https://quillbot.com/ |
 
 ---
 # 2. Análise gráfica de artigos, citações, etc
 
-Pesquisa em arquivos sicentíficos https://www.semanticscholar.org/
 
-Sci2 tool https://sci2.cns.iu.edu/user/index.php
-
-Webometric Analyst http://lexiurl.wlv.ac.uk/index.html
-
-ResearchRabbit https://www.researchrabbit.ai/
+| Recurso | URL |
+|--- | --- |
+| Pesquisa em arquivos sicentíficos | https://www.semanticscholar.org/ |
+|Sci2 tool | https://sci2.cns.iu.edu/user/index.php |
+|Webometric Analyst | http://lexiurl.wlv.ac.uk/index.html |
+|ResearchRabbit | https://www.researchrabbit.ai/ |
 
 
 ---
 # 3. Suporte a escrita de artigos
 
-Publicação sem peer review https://arxiv.org/
+* Publicação sem peer review https://arxiv.org/
 
 ## 3.1. Gerenciador de artigos e referências
 
