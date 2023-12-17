@@ -157,6 +157,7 @@ Observação:
 | Bibliometrix | https://www.bibliometrix.org/home/ |
 | Easyalluvial | https://erblast.github.io/easyalluvial/ |
 | scopusAPI | https://github.com/christopherBelter/scopusAPI |
+| RQDA | http://rqda.r-forge.r-project.org/ |
 
 ---
 # 7. Mapas 3D, Mapas de palavras, Mapas de artigos
@@ -171,7 +172,9 @@ Observação:
 | Gephi | https://gephi.org/ |
 | Tree map | https://www.cs.umd.edu/hcil/treemap/ |
 | Citespace | http://cluster.cis.drexel.edu/%7Ecchen/citespace/ |
+| Cytoscape | https://cytoscape.org/ |
 | VOSviewer | https://www.vosviewer.com/ |
+| Bibliomaps | https://www.sebastian-grauwin.com/bibliomaps/ |
 
 ---
 # 8. Datasets
@@ -244,7 +247,21 @@ Observação:
 | Google Scholar metrics | https://scholar.google.com/citations?view_op=metrics_intro&hl=en |
 
 ---
-# 13. Outras ferramentas e + referências
+# 15. Ferramentas analytics -> $$
+
+| Recurso | URL |
+|--- | --- |
+| Aquad | https://www.aquad.de/ |
+| Vatagepoint text analytics  | https://www.thevantagepoint.com/ |
+| Dedoose | https://www.dedoose.com/home/features |
+| Maxqda | https://www.maxqda.com/pricing#role-student |
+| Lumivero NVivo | https://lumivero.com/products/nvivo/ |
+| Provalis | https://provalisresearch.com/ |
+
+
+
+---
+# 15. Outras ferramentas e + referências
 
 | Recurso | URL |
 |--- | --- |
