@@ -1,6 +1,6 @@
 # Bibliometria
 
-** Recursos(ferramentas) para bibliometria e suporte a escrita/análise de artigos **
+**Recursos(ferramentas) para bibliometria e suporte a escrita/análise de artigos**
 
 ```
 Observação:
@@ -325,7 +325,7 @@ Observação: Primeira postagem em: Dezembro/2023.
 ```
 
 
-** Estatísticas **
+**Estatísticas**
 
 Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
 [![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/tutorial_python)
