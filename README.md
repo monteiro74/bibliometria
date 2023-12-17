@@ -19,6 +19,8 @@ Observação:
 ---
 # 1. Tradutores
 
+Translito
+
 
 
 ---
@@ -33,14 +35,29 @@ Webometric Analyst http://lexiurl.wlv.ac.uk/index.html
 ---
 # 3. Suporte a escrita de artigos
 
-Gerenciador de artigos e referências https://www.mendeley.com/reference-management/reference-manager
+## 3.1. Gerenciador de artigos e referências
+
+Mendeley https://www.mendeley.com/reference-management/reference-manager
 
 PoP https://harzing.com/resources/publish-or-perish
+
+Zotero
+
+## 3.2. Revisor gramatical 
+
+Grammarly
+
+## 3.3. DOI
+
+Crossref https://github.com/plotly/dash
+
+
 
 ---
 # 4. Outras referências
 
-Links para diversas ferramentas e referências https://www.leydesdorff.net/index.htm
+
+Para publicar sem peer review https://arxiv.org/
 
 Journal comparison https://www.scimagojr.com/comparejournals.php 
 
@@ -51,18 +68,26 @@ World comparison https://www.scimagojr.com/worldreport.php
 Subject buble https://www.scimagojr.com/mapgen.php?maptype=bc
 
 Scimago https://www.scimagojr.com/
+
 ---
 # 5. Python
 
 LitStudy https://nlesc.github.io/litstudy/
 
-https://github.com/CIShell/sci2/releases/tag/v1.3.0
+SCi2 https://github.com/CIShell/sci2/releases/tag/v1.3.0
 
 ScientoPy https://github.com/jpruiz84/ScientoPy
 
+## 5.1. Data apps
+
+Plotly https://plotly.com/
+
+Dash https://github.com/plotly/dash
+
+
 # 6. R
 
-https://www.bibliometrix.org/home/
+Bibliometrix https://www.bibliometrix.org/home/
 
 # 7. Mapas 3D, Mapas de palavras, Mapas de artigos
 
@@ -80,9 +105,10 @@ https://data.mendeley.com/
 
 Generate an SVG https://github.com/cicirello/bibliometrics
 
-# 10. Referencias e + referências
+# 10. Outras ferramentas e + referências
 
 Scientometric Portal https://sites.google.com/site/hjamali/scientometric-portal
 
+Links para diversas ferramentas e referências https://www.leydesdorff.net/index.htm
 
 
