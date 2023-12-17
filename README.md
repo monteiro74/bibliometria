@@ -1,10 +1,13 @@
 # Bibliometria
 
-Ferramentas para bibliometria
+### Ferramentas para bibliometria e suporte a escrita/análise de artigos
 
 ```
 Observação:
-
+1. São materiais de suporte a planejamento, escrita e revisão de artigos.
+2. Material foi ou poderá ser usado em sala de aula.
+3. Recomendações de tercerios (professores, técnicos e alunos) após avaliação.
+4. A relação abaixo está em construção
 ```
 
 ---
@@ -19,7 +22,9 @@ Observação:
 ---
 # 1. Tradutores
 
-Translito
+Deepl https://www.deepl.com/pt-BR/translator
+
+Translito https://www.translito.com/portuguese/
 
 Quillbot https://quillbot.com/
 
@@ -38,6 +43,8 @@ ResearchRabbit https://www.researchrabbit.ai/
 
 ---
 # 3. Suporte a escrita de artigos
+
+Para publicar sem peer review https://arxiv.org/
 
 ## 3.1. Gerenciador de artigos e referências
 
@@ -69,11 +76,20 @@ Scispace https://typeset.io/pricing
 
 ResearchRabbit https://www.researchrabbit.ai/
 
+ASReview https://asreview.nl/
+
+Litstudy https://github.com/NLeSC/litstudy?tab=readme-ov-file
+
+## 3.5. Revisão de literatura
+
+Head Start https://github.com/OpenKnowledgeMaps/Headstart
+
+PoP https://harzing.com/resources/publish-or-perish
+
+IN-Spire https://in-spire.pnnl.gov/
+
 ---
-# 4. Outras referências
-
-
-Para publicar sem peer review https://arxiv.org/
+# 4. Estatísticas do Scimago e outros
 
 Journal comparison https://www.scimagojr.com/comparejournals.php 
 
@@ -96,6 +112,8 @@ SCi2 https://github.com/CIShell/sci2/releases/tag/v1.3.0
 
 ScientoPy https://github.com/jpruiz84/ScientoPy
 
+Litstudy https://github.com/NLeSC/litstudy?tab=readme-ov-file
+
 ## 5.1. Data apps
 
 Plotly https://plotly.com/
@@ -115,18 +133,71 @@ Places & Spaces https://scimaps.org/home
 
 Map of science https://sciencemap.eto.tech/?mode=map
 
+ResearchRabbit https://www.researchrabbit.ai/
+
+MapEquation https://www.mapequation.org/apps.html
+
+Gephi https://gephi.org/
+
+Tree map https://www.cs.umd.edu/hcil/treemap/
+
+Citespace http://cluster.cis.drexel.edu/%7Ecchen/citespace/
+
 # 8. Datasets
 
-https://data.mendeley.com/
+Data Mendeley https://data.mendeley.com/
 
-# 9. Bibliometrics + git
+Datasketch https://www.datasketch.co/
+
+## 9. Visualização de dados
+
+RAWGraphs https://www.rawgraphs.io/
+
+Alluvial Diagram Generator https://www.mapequation.org/alluvial/
+
+Vários links sobre diagramas sankey e aluviais https://coolinfographics.com/sankey
+
+Scimago Graphica https://www.graphica.app/
+
+Tableau Public https://public.tableau.com/app/discover
+
+Jigsaw https://sites.cc.gatech.edu/gvu/ii/jigsaw/
+
+IN-Spire https://in-spire.pnnl.gov/
+
+Citespace http://cluster.cis.drexel.edu/%7Ecchen/citespace/
+
+# 10. Bibliometrics + github
 
 Generate an SVG https://github.com/cicirello/bibliometrics
 
-# 10. Outras ferramentas e + referências
+# 11. Profile
+
+Scholia https://scholia.toolforge.org/
+
+Orcid https://orcid.org/
+
+# 12. Catálogos de inovação, pesquisas e patentes
+
+INPI https://www.gov.br/inpi/pt-br
+
+Lens https://www.lens.org/
+
+OpenAlex https://openalex.org/
+
+OpenCitations https://opencitations.net/
+
+# 13. Outras ferramentas e + referências
 
 Scientometric Portal https://sites.google.com/site/hjamali/scientometric-portal
 
 Links para diversas ferramentas e referências https://www.leydesdorff.net/index.htm
 
+Sankey e alluvial diagramas https://coolinfographics.com/sankey
+
+Scimago Viz Tools https://www.scimagojr.com/viztools.php
+
+Aminer https://www.aminer.org/
+
+Dimensions https://www.dimensions.ai/
 
