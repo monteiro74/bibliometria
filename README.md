@@ -22,9 +22,13 @@ Observação:
 
 
 ---
-# 2. Análise gráfica de artigos
+# 2. Análise gráfica de artigos, citações, etc
 
 Pesquisa em arquivos sicentíficos https://www.semanticscholar.org/
+
+Sci2 tool https://sci2.cns.iu.edu/user/index.php
+
+Webometric Analyst http://lexiurl.wlv.ac.uk/index.html
 
 ---
 # 3. Suporte a escrita de artigos
@@ -54,6 +58,8 @@ LitStudy https://nlesc.github.io/litstudy/
 
 https://github.com/CIShell/sci2/releases/tag/v1.3.0
 
+ScientoPy https://github.com/jpruiz84/ScientoPy
+
 # 6. R
 
 https://www.bibliometrix.org/home/
@@ -62,11 +68,13 @@ https://www.bibliometrix.org/home/
 
 Shape os science https://www.scimagojr.com/shapeofscience/
 
+Places & Spaces https://scimaps.org/home
+
 # 8. Datasets
 
 https://data.mendeley.com/
 
-# 9. Bibliometri + git
+# 9. Bibliometrics + git
 
 Generate an SVG https://github.com/cicirello/bibliometrics
 
