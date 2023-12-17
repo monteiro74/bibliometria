@@ -16,7 +16,22 @@ Observação:
 1. Tradutores<br>
 2. Análise gráfica de artigos, citações, etc<br>
 3. Suporte a escrita de artigos<br>
-
+3.1. Gerenciador de artigos e referências<br>
+3.2. Revisor gramatical<br>
+3.3. DOI<br>
+3.4. Sumarização de artigos<br>
+3.5. Revisão de literatura<br>
+4. Estatísticas do Scimago e outros<br>
+5. Python
+5.1. Data apps
+6. R
+7. Mapas 3D, Mapas de palavras, Mapas de artigos
+8. Datasets
+9. Visualização de dados
+10. Bibliometrics + github
+11. Profile
+12. BD, Catálogos de inovação, pesquisas
+13. Outras ferramentas e + referências
 
 
 ---
@@ -153,7 +168,7 @@ Data Mendeley https://data.mendeley.com/
 
 Datasketch https://www.datasketch.co/
 
-## 9. Visualização de dados
+# 9. Visualização de dados
 
 RAWGraphs https://www.rawgraphs.io/
 
@@ -181,9 +196,8 @@ Scholia https://scholia.toolforge.org/
 
 Orcid https://orcid.org/
 
-# 12. BD, Catálogos de inovação, pesquisas e patentes
+# 12. BD, Catálogos de inovação, pesquisas
 
-INPI https://www.gov.br/inpi/pt-br
 
 Lens https://www.lens.org/
 
