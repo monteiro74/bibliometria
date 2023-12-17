@@ -50,7 +50,7 @@ World comparison https://www.scimagojr.com/worldreport.php
 
 Subject buble https://www.scimagojr.com/mapgen.php?maptype=bc
 
-
+Scimago https://www.scimagojr.com/
 ---
 # 5. Python
 
@@ -64,11 +64,13 @@ ScientoPy https://github.com/jpruiz84/ScientoPy
 
 https://www.bibliometrix.org/home/
 
-# 7. Mapas 3D, Mapas de palavras
+# 7. Mapas 3D, Mapas de palavras, Mapas de artigos
 
 Shape os science https://www.scimagojr.com/shapeofscience/
 
 Places & Spaces https://scimaps.org/home
+
+Map of science https://sciencemap.eto.tech/?mode=map
 
 # 8. Datasets
 
@@ -77,6 +79,10 @@ https://data.mendeley.com/
 # 9. Bibliometrics + git
 
 Generate an SVG https://github.com/cicirello/bibliometrics
+
+# 10. Referencias e + referências
+
+Scientometric Portal https://sites.google.com/site/hjamali/scientometric-portal
 
 
 
