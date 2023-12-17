@@ -14,6 +14,41 @@ Observação:
 ---
 # Sumário
 
+[]()
+
+- [Bibliometria](#bibliometria)
+    - [Recursos(ferramentas) para bibliometria e suporte a escrita/análise de artigos](#recursosferramentas-para-bibliometria-e-suporte-a-escritaanálise-de-artigos)
+- [Sumário](#sumário)
+- [1. Tradutores](#1-tradutores)
+- [2. Análise gráfica de artigos, citações, etc](#2-análise-gráfica-de-artigos-citações-etc)
+- [3. Suporte a escrita de artigos](#3-suporte-a-escrita-de-artigos)
+  - [3.1. Gerenciador de artigos e referências](#31-gerenciador-de-artigos-e-referências)
+  - [3.2. Revisor gramatical](#32-revisor-gramatical)
+  - [3.3. DOI Digital object identifier](#33-doi-digital-object-identifier)
+  - [3.4. Sumarização de artigos](#34-sumarização-de-artigos)
+  - [3.5. Revisão de literatura](#35-revisão-de-literatura)
+  - [3.6. Journal finder](#36-journal-finder)
+- [4. Estatísticas do Scimago e outros](#4-estatísticas-do-scimago-e-outros)
+- [5. Python](#5-python)
+  - [5.1. Python Data apps](#51-python-data-apps)
+- [6. R](#6-r)
+- [7. Mapas 3D, Mapas de palavras, Mapas de artigos](#7-mapas-3d-mapas-de-palavras-mapas-de-artigos)
+- [8. Datasets](#8-datasets)
+- [9. Visualização de dados](#9-visualização-de-dados)
+- [10. Bibliometrics + github](#10-bibliometrics--github)
+- [11. Profile](#11-profile)
+  - [| Clarivate WoS | https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/researcher-profiles/ |](#-clarivate-wos--httpsclarivatecomproductsscientific-and-academic-researchresearch-discovery-and-workflow-solutionsresearcher-profiles-)
+- [12. BD, Catálogos de inovação, pesquisas](#12-bd-catálogos-de-inovação-pesquisas)
+- [13. Diretórios](#13-diretórios)
+- [14. Impact index](#14-impact-index)
+- [15. Ferramentas para analytics](#15-ferramentas-para-analytics)
+- [16. Outras ferramentas e + referências](#16-outras-ferramentas-e--referências)
+- [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
+  - [Avisos](#avisos)
+  - [Licença](#licença)
+  - [Observação](#observação)
+  - [Estatísticas](#estatísticas)
+
 1. Tradutores<br>
 2. Análise gráfica de artigos, citações, etc<br>
 3. Suporte a escrita de artigos<br>
