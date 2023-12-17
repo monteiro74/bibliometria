@@ -15,7 +15,6 @@ Observação:
 # Sumário
 
 
-
 - [Bibliometria](#bibliometria)
   - [Recursos(ferramentas) para bibliometria e suporte a escrita/análise de artigos](#recursosferramentas-para-bibliometria-e-suporte-a-escritaanálise-de-artigos)
 - [Sumário](#sumário)
