@@ -63,37 +63,36 @@ Observação:
 
 ## 3.1. Gerenciador de artigos e referências
 
-Mendeley https://www.mendeley.com/reference-management/reference-manager
-
-PoP https://harzing.com/resources/publish-or-perish
-
-Zotero https://www.zotero.org/
+| Recurso | URL |
+|--- | --- |
+| Mendeley | https://www.mendeley.com/reference-management/reference-manager |
+|PoP | https://harzing.com/resources/publish-or-perish |
+|Zotero | https://www.zotero.org/ |
 
 ## 3.2. Revisor gramatical 
 
-Grammarly https://app.grammarly.com/
-
-QuillBot https://quillbot.com/
+| Recurso | URL |
+|--- | --- |
+| Grammarly | https://app.grammarly.com/ |
+| QuillBot | https://quillbot.com/ |
 
 ## 3.3. DOI
 
-Crossref https://github.com/plotly/dash
+| Recurso | URL |
+|--- | --- |
+| Crossref | https://github.com/plotly/dash |
 
 ## 3.4. Sumarização de artigos
 
-Explainpaper https://www.explainpaper.com/
-
-ScuSummary https://scisummary.com/
-
-QuillBot https://quillbot.com/
-
-Scispace https://typeset.io/pricing
-
-ResearchRabbit https://www.researchrabbit.ai/
-
-ASReview https://asreview.nl/
-
-Litstudy https://github.com/NLeSC/litstudy?tab=readme-ov-file
+| Recurso | URL |
+|--- | --- |
+| Explainpaper | https://www.explainpaper.com/ |
+|ScuSummary | https://scisummary.com/ |
+|QuillBot | https://quillbot.com/ |
+|Scispace | https://typeset.io/pricing |
+|ResearchRabbit | https://www.researchrabbit.ai/ |
+|ASReview | https://asreview.nl/ |
+|Litstudy | https://github.com/NLeSC/litstudy?tab=readme-ov-file |
 
 ## 3.5. Revisão de literatura
 
