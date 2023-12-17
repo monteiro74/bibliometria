@@ -237,7 +237,7 @@ Observação:
 | Scholia | https://scholia.toolforge.org/ |
 | Orcid | https://orcid.org/ |
 | Sciprofile | https://sciprofiles.com/ |
-| Clarivate WoS | teste |
+| Clarivate WoS | https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/researcher-profiles/ |
 
 
 ---
