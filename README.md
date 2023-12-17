@@ -4,7 +4,7 @@
 
 ```
 Observação:
-1. Lista de recursos(ferramentas, sites, datasets) para suporte a planejamento, escrita e revisão de artigos.
+1. Lista de recursos(ferramentas, sites, datasets) para suporte a escrita e revisão de artigos.
 2. Este material foi ou poderá ser usado em sala de aula.
 3. Este material recebe recomendações de tercerios (professores, técnicos e alunos) após avaliação.
 4. Alguns items poderão ser classificados em mais de uma categoria.
