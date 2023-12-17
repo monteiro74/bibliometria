@@ -37,7 +37,6 @@ Observação:
 - [9. Visualização de dados](#9-visualização-de-dados)
 - [10. Bibliometrics + github](#10-bibliometrics--github)
 - [11. Profile](#11-profile)
-  - [| Clarivate WoS | https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/researcher-profiles/ |](#-clarivate-wos--httpsclarivatecomproductsscientific-and-academic-researchresearch-discovery-and-workflow-solutionsresearcher-profiles-)
 - [12. BD, Catálogos de inovação, pesquisas](#12-bd-catálogos-de-inovação-pesquisas)
 - [13. Diretórios](#13-diretórios)
 - [14. Impact index](#14-impact-index)
@@ -49,28 +48,6 @@ Observação:
   - [Observação](#observação)
   - [Estatísticas](#estatísticas)
 
-1. Tradutores<br>
-2. Análise gráfica de artigos, citações, etc<br>
-3. Suporte a escrita de artigos<br>
-3.1. Gerenciador de artigos e referências<br>
-3.2. Revisor gramatical<br>
-3.3. DOI Digital object identifier<br>
-3.4. Sumarização de artigos<br>
-3.5. Revisão de literatura<br>
-4. Estatísticas do Scimago e outros<br>
-5. Python<br>
-5.1. Python Data apps<br>
-6. R<br>
-7. Mapas 3D, Mapas de palavras, Mapas de artigos<br>
-8. Datasets<br>
-9. Visualização de dados<br>
-10. Bibliometrics + github<br>
-11. Profile<br>
-12. BD, Catálogos de inovação, pesquisas<br>
-13. Diretórios<br>
-14. Impact index<br>
-15. Ferramentas para analytics <br>
-16. Outras ferramentas e + referências<br>
 
 
 ---
@@ -260,7 +237,9 @@ Observação:
 | Scholia | https://scholia.toolforge.org/ |
 | Orcid | https://orcid.org/ |
 | Sciprofile | https://sciprofiles.com/ |
-| Clarivate WoS | https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/researcher-profiles/ |
+| Clarivate WoS | teste |
+
+
 ---
 # 12. BD, Catálogos de inovação, pesquisas
 
