@@ -1,6 +1,6 @@
 # Bibliometria
 
-### Recursos(ferramentas) para bibliometria e suporte a escrita/análise de artigos
+## Recursos(ferramentas) para bibliometria e suporte a escrita/análise de artigos
 
 ```
 Observação:
@@ -14,10 +14,10 @@ Observação:
 ---
 # Sumário
 
-[]()
+
 
 - [Bibliometria](#bibliometria)
-    - [Recursos(ferramentas) para bibliometria e suporte a escrita/análise de artigos](#recursosferramentas-para-bibliometria-e-suporte-a-escritaanálise-de-artigos)
+  - [Recursos(ferramentas) para bibliometria e suporte a escrita/análise de artigos](#recursosferramentas-para-bibliometria-e-suporte-a-escritaanálise-de-artigos)
 - [Sumário](#sumário)
 - [1. Tradutores](#1-tradutores)
 - [2. Análise gráfica de artigos, citações, etc](#2-análise-gráfica-de-artigos-citações-etc)
