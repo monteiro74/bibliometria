@@ -19,7 +19,7 @@ Observação:
 3. Suporte a escrita de artigos<br>
 3.1. Gerenciador de artigos e referências<br>
 3.2. Revisor gramatical<br>
-3.3. DOI<br>
+3.3. DOI Digital object identifier<br>
 3.4. Sumarização de artigos<br>
 3.5. Revisão de literatura<br>
 4. Estatísticas do Scimago e outros<br>
@@ -32,7 +32,10 @@ Observação:
 10. Bibliometrics + github<br>
 11. Profile<br>
 12. BD, Catálogos de inovação, pesquisas<br>
-13. Outras ferramentas e + referências<br>
+13. Diretórios<br>
+14. Impact index<br>
+15. Ferramentas para analytics <br>
+16. Outras ferramentas e + referências<br>
 
 
 ---
@@ -77,7 +80,7 @@ Observação:
 | Grammarly | https://app.grammarly.com/ |
 | QuillBot | https://quillbot.com/ |
 
-## 3.3. DOI
+## 3.3. DOI Digital object identifier
 
 | Recurso | URL |
 |--- | --- |
@@ -257,7 +260,7 @@ Observação:
 | Google Scholar metrics | https://scholar.google.com/citations?view_op=metrics_intro&hl=en |
 
 ---
-# 15. Ferramentas analytics -> $$
+# 15. Ferramentas para analytics
 
 | Recurso | URL |
 |--- | --- |
@@ -272,7 +275,7 @@ Observação:
 
 
 ---
-# 15. Outras ferramentas e + referências
+# 16. Outras ferramentas e + referências
 
 | Recurso | URL |
 |--- | --- |
