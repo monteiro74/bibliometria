@@ -14,7 +14,7 @@ Observação:
 # Sumário
 
 1. Tradutores<br>
-2. Análise gráfica de artigos<br>
+2. Análise gráfica de artigos, citações, etc<br>
 3. Suporte a escrita de artigos<br>
 
 
@@ -125,6 +125,10 @@ Dash https://github.com/plotly/dash
 
 Bibliometrix https://www.bibliometrix.org/home/
 
+Easyalluvial https://erblast.github.io/easyalluvial/
+
+scopusAPI https://github.com/christopherBelter/scopusAPI
+
 # 7. Mapas 3D, Mapas de palavras, Mapas de artigos
 
 Shape os science https://www.scimagojr.com/shapeofscience/
@@ -177,7 +181,7 @@ Scholia https://scholia.toolforge.org/
 
 Orcid https://orcid.org/
 
-# 12. Catálogos de inovação, pesquisas e patentes
+# 12. BD, Catálogos de inovação, pesquisas e patentes
 
 INPI https://www.gov.br/inpi/pt-br
 
@@ -186,6 +190,10 @@ Lens https://www.lens.org/
 OpenAlex https://openalex.org/
 
 OpenCitations https://opencitations.net/
+
+Scopus Preview https://www.scopus.com/
+
+Semantic Scholar https://www.semanticscholar.org/
 
 # 13. Outras ferramentas e + referências
 
