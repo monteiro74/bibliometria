@@ -1,6 +1,13 @@
-# Bibliometria
+# Bibliometria, infometria
 
-**Recursos(ferramentas) para bibliometria e suporte a escrita/análise de artigos**
+**Recursos(ferramentas, sites, etc) para bibliometria e suporte a escrita/análise de artigos**
+
+O que é bibliometria ?
+
+**Bibliometria** é a utilização de métodos estatísticos para analisar livros, artigos e outras publicações, especialmente em conteúdos científicos. Os métodos bibliométricos são frequentemente usados ​​no campo da biblioteconomia e da ciência da informação. A bibliometria está intimamente associada à cienciometria, à análise de métricas e indicadores científicos, a tal ponto que ambos os campos se sobrepõem em grande parte.
+
+Exemplo de análise bibliométrica:
+![https://upload.wikimedia.org/wikipedia/commons/3/3f/A_synthesized_document_co-citation_network.png](https://upload.wikimedia.org/wikipedia/commons/3/3f/A_synthesized_document_co-citation_network.png)
 
 ```
 Observação:
@@ -15,7 +22,7 @@ Observação:
 # Sumário
 
 
-- [Bibliometria](#bibliometria)
+- [Bibliometria, infometria](#bibliometria-infometria)
 - [Sumário](#sumário)
 - [1. Tradutores](#1-tradutores)
 - [2. Análise gráfica de artigos, citações, etc](#2-análise-gráfica-de-artigos-citações-etc)
@@ -68,8 +75,10 @@ Observação:
 ---
 # 3. Suporte a escrita de artigos
 
-* Publicação sem peer review https://arxiv.org/
-* "free open-access publication service" https://ceur-ws.org/
+| Recurso | URL |
+|--- | --- |
+|Publicação sem peer review | https://arxiv.org/ |
+| "free open-access publication service" | https://ceur-ws.org/ |
 
 ## 3.1. Gerenciador de artigos e referências
 
