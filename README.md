@@ -60,6 +60,7 @@ Observação:
 # 3. Suporte a escrita de artigos
 
 * Publicação sem peer review https://arxiv.org/
+* "free open-access publication service" https://ceur-ws.org/
 
 ## 3.1. Gerenciador de artigos e referências
 
@@ -81,6 +82,7 @@ Observação:
 | Recurso | URL |
 |--- | --- |
 | Crossref | https://github.com/plotly/dash |
+| Zenodo | https://zenodo.org/ |
 
 ## 3.4. Sumarização de artigos
 
@@ -101,6 +103,22 @@ Observação:
 | Head Start | https://github.com/OpenKnowledgeMaps/Headstart |
 | PoP | https://harzing.com/resources/publish-or-perish |
 | IN-Spire | https://in-spire.pnnl.gov/ |
+
+## 3.6. Journal finder
+
+| Recurso | URL |
+|--- | --- |
+| Elsevier | https://journalfinder.elsevier.com/ |
+| Wiley | https://journalfinder.wiley.com/search?type=match |
+| Inderscience | https://www.inderscience.com/mobile/journal/insubjall.php |   
+| Sucupira CAPES | https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf|
+| Qualis Ciência da Computação | https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/ |
+| Sherpa | https://beta.sherpa.ac.uk/ |
+| Taylor | https://authorservices.taylorandfrancis.com/publishing-your-research/choosing-a-journal/journal-suggester/ |
+| Call for papers | http://www.wikicfp.com/cfp/ |
+| IEEE CFP | https://www.computer.org/publications/author-resources/calls-for-papers |
+
+
 
 ---
 # 4. Estatísticas do Scimago e outros
@@ -204,6 +222,27 @@ Observação:
 | Scopus Preview | https://www.scopus.com/ |
 | Semantic Scholar | https://www.semanticscholar.org/ |
 
+
+---
+# 13. Diretórios
+
+| Recurso | URL |
+|--- | --- |
+| DOAJ (DIRECTORY OF OPEN ACCESS JOURNALS) | https://doaj.org/ |
+| Redalic | https://www.redalyc.org/ |
+| Latindex | https://www.latindex.org/latindex/ |
+| Database index | https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines |
+
+---
+# 14. Impact index
+
+
+| Recurso | URL |
+|--- | --- |
+| Resurchify fator de impacto | https://www.resurchify.com/if/impact-factor-search |
+| Resurchify Journal Ranking | https://www.resurchify.com/ranking |
+| Google Scholar metrics | https://scholar.google.com/citations?view_op=metrics_intro&hl=en |
+
 ---
 # 13. Outras ferramentas e + referências
 
@@ -214,7 +253,9 @@ Observação:
 | Sankey e alluvial diagramas | https://coolinfographics.com/sankey |
 | Scimago Viz Tools | https://www.scimagojr.com/viztools.php |
 | Aminer | https://www.aminer.org/ |
-| Dimensions | https://www.dimensions.ai/ |
+| Dimensions | https://www.dimensions.ai/ |´
+| Loop (database of researcher impact by Frontiers) | https://loop.frontiersin.org/ |
+| Movimento acesso aberto | https://globaldiamantoa.org/manifiesto/ |
 
 
 
