@@ -306,6 +306,7 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Dimensions | https://www.dimensions.ai/ |´
 | Loop (database of researcher impact by Frontiers) | https://loop.frontiersin.org/ |
 | Movimento acesso aberto | https://globaldiamantoa.org/manifiesto/ |
+| Lista de ferramentas bibliomáticas | https://en.wikipedia.org/wiki/List_of_bibliometrics_software |
 
 
 
