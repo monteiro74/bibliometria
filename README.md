@@ -201,6 +201,13 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Litmaps | https://www.litmaps.com/ |
 
 
+Algumas ilustrações:
+
+![https://gephi.org/images/screenshots/preview4.png](https://gephi.org/images/screenshots/preview4.png)
+Fonte da figura: https://gephi.org/images/screenshots/preview4.png
+
+
+
 ---
 # 8. Datasets
 
