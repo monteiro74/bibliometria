@@ -22,16 +22,16 @@ Observação:
 3.4. Sumarização de artigos<br>
 3.5. Revisão de literatura<br>
 4. Estatísticas do Scimago e outros<br>
-5. Python
-5.1. Data apps
-6. R
-7. Mapas 3D, Mapas de palavras, Mapas de artigos
-8. Datasets
-9. Visualização de dados
-10. Bibliometrics + github
-11. Profile
-12. BD, Catálogos de inovação, pesquisas
-13. Outras ferramentas e + referências
+5. Python<br>
+5.1. Data apps<br>
+6. R<br>
+7. Mapas 3D, Mapas de palavras, Mapas de artigos<br>
+8. Datasets<br>
+9. Visualização de dados<br>
+10. Bibliometrics + github<br>
+11. Profile<br>
+12. BD, Catálogos de inovação, pesquisas<br>
+13. Outras ferramentas e + referências<br>
 
 
 ---
@@ -59,7 +59,7 @@ ResearchRabbit https://www.researchrabbit.ai/
 ---
 # 3. Suporte a escrita de artigos
 
-Para publicar sem peer review https://arxiv.org/
+Publicação sem peer review https://arxiv.org/
 
 ## 3.1. Gerenciador de artigos e referências
 
@@ -135,7 +135,7 @@ Plotly https://plotly.com/
 
 Dash https://github.com/plotly/dash
 
-
+---
 # 6. R
 
 Bibliometrix https://www.bibliometrix.org/home/
@@ -144,6 +144,7 @@ Easyalluvial https://erblast.github.io/easyalluvial/
 
 scopusAPI https://github.com/christopherBelter/scopusAPI
 
+---
 # 7. Mapas 3D, Mapas de palavras, Mapas de artigos
 
 Shape os science https://www.scimagojr.com/shapeofscience/
@@ -162,12 +163,14 @@ Tree map https://www.cs.umd.edu/hcil/treemap/
 
 Citespace http://cluster.cis.drexel.edu/%7Ecchen/citespace/
 
+---
 # 8. Datasets
 
 Data Mendeley https://data.mendeley.com/
 
 Datasketch https://www.datasketch.co/
 
+---
 # 9. Visualização de dados
 
 RAWGraphs https://www.rawgraphs.io/
@@ -186,16 +189,19 @@ IN-Spire https://in-spire.pnnl.gov/
 
 Citespace http://cluster.cis.drexel.edu/%7Ecchen/citespace/
 
+---
 # 10. Bibliometrics + github
 
 Generate an SVG https://github.com/cicirello/bibliometrics
 
+---
 # 11. Profile
 
 Scholia https://scholia.toolforge.org/
 
 Orcid https://orcid.org/
 
+---
 # 12. BD, Catálogos de inovação, pesquisas
 
 
@@ -209,6 +215,7 @@ Scopus Preview https://www.scopus.com/
 
 Semantic Scholar https://www.semanticscholar.org/
 
+---
 # 13. Outras ferramentas e + referências
 
 Scientometric Portal https://sites.google.com/site/hjamali/scientometric-portal
