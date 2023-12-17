@@ -11,7 +11,7 @@ Exemplo de análise bibliométrica:
 
 ![https://upload.wikimedia.org/wikipedia/commons/3/3f/A_synthesized_document_co-citation_network.png](https://upload.wikimedia.org/wikipedia/commons/3/3f/A_synthesized_document_co-citation_network.png)
 
-
+Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synthesized_document_co-citation_network.png
 
 
 ---
