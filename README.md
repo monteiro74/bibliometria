@@ -23,7 +23,7 @@ Observação:
 3.5. Revisão de literatura<br>
 4. Estatísticas do Scimago e outros<br>
 5. Python<br>
-5.1. Data apps<br>
+5.1. Python Data apps<br>
 6. R<br>
 7. Mapas 3D, Mapas de palavras, Mapas de artigos<br>
 8. Datasets<br>
@@ -129,7 +129,7 @@ ScientoPy https://github.com/jpruiz84/ScientoPy
 
 Litstudy https://github.com/NLeSC/litstudy?tab=readme-ov-file
 
-## 5.1. Data apps
+## 5.1. Python Data apps
 
 Plotly https://plotly.com/
 
