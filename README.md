@@ -192,6 +192,7 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Gephi | https://gephi.org/ |
 | Tree map | https://www.cs.umd.edu/hcil/treemap/ |
 | Citespace | http://cluster.cis.drexel.edu/%7Ecchen/citespace/ |
+| Citespace (free) | https://citespace.podia.com/download |
 | Cytoscape | https://cytoscape.org/ |
 | VOSviewer | https://www.vosviewer.com/ |
 | Bibliomaps | https://www.sebastian-grauwin.com/bibliomaps/ |
@@ -205,6 +206,9 @@ Algumas ilustrações:
 
 ![https://gephi.org/images/screenshots/preview4.png](https://gephi.org/images/screenshots/preview4.png)
 Fonte da figura: https://gephi.org/images/screenshots/preview4.png
+
+![https://d31ezp3r8jwmks.cloudfront.net/4uqvgwkv5nwr4ileo6o7jk7t3iq3](https://d31ezp3r8jwmks.cloudfront.net/4uqvgwkv5nwr4ileo6o7jk7t3iq3)
+Fonte da figura: https://d31ezp3r8jwmks.cloudfront.net/4uqvgwkv5nwr4ileo6o7jk7t3iq3
 
 
 
