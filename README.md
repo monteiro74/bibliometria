@@ -50,6 +50,8 @@ Subject buble https://www.scimagojr.com/mapgen.php?maptype=bc
 ---
 # 5. Python
 
+LitStudy https://nlesc.github.io/litstudy/
+
 https://github.com/CIShell/sci2/releases/tag/v1.3.0
 
 # 6. R
@@ -63,3 +65,10 @@ Shape os science https://www.scimagojr.com/shapeofscience/
 # 8. Datasets
 
 https://data.mendeley.com/
+
+# 9. Bibliometri + git
+
+Generate an SVG https://github.com/cicirello/bibliometrics
+
+
+
