@@ -204,13 +204,31 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 
 Algumas ilustrações:
 
+Captura de telas do [Gephi](https://gephi.org/):
 ![https://gephi.org/images/screenshots/preview4.png](https://gephi.org/images/screenshots/preview4.png)
 Fonte da figura: https://gephi.org/images/screenshots/preview4.png
+
+Capturas de telas de [Cytoscape](https://cytoscape.org/screenshots.html)
 
 ![https://d31ezp3r8jwmks.cloudfront.net/4uqvgwkv5nwr4ileo6o7jk7t3iq3](https://d31ezp3r8jwmks.cloudfront.net/4uqvgwkv5nwr4ileo6o7jk7t3iq3)
 Fonte da figura: https://d31ezp3r8jwmks.cloudfront.net/4uqvgwkv5nwr4ileo6o7jk7t3iq3
 
 
+Capturas de telas do [Vosviewer](https://www.vosviewer.com/features/screenshots)
+
+![https://www.vosviewer.com/media/images/content/332ccea86d002f58c6e9ab4e33b956e4_large.png](https://www.vosviewer.com/media/images/content/332ccea86d002f58c6e9ab4e33b956e4_large.png)
+Fonte da figura: https://www.vosviewer.com/media/images/content/332ccea86d002f58c6e9ab4e33b956e4_large.png
+
+Captura de tela do [Bibliotools](https://www.sebastian-grauwin.com/bibliomaps/index.html):
+![https://www.sebastian-grauwin.com/bibliomaps/img/exempleJ.png](https://www.sebastian-grauwin.com/bibliomaps/img/exempleJ.png)
+Fonte da figura: https://www.sebastian-grauwin.com/bibliomaps/img/exempleJ.png
+
+![https://www.sebastian-grauwin.com/bibliomaps/img/exempleCOrefJ.png](https://www.sebastian-grauwin.com/bibliomaps/img/exempleCOrefJ.png)
+Fonte da figura: https://www.sebastian-grauwin.com/bibliomaps/img/exempleCOrefJ.png
+
+Captura de tela do [CitNetExplorer](https://www.citnetexplorer.nl/screenshots):
+![https://www.citnetexplorer.nl/media/images/content/317f32c48e94823ad4a7a5f7b4501582_large.png](https://www.citnetexplorer.nl/media/images/content/317f32c48e94823ad4a7a5f7b4501582_large.png)
+Fonte da figura: https://www.citnetexplorer.nl/media/images/content/317f32c48e94823ad4a7a5f7b4501582_large.png
 
 ---
 # 8. Datasets
