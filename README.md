@@ -225,10 +225,10 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Interview query | https://www.interviewquery.com/p/free-datasets |
 
 Outras fontes de datasets:
-https://www.tableau.com/learn/articles/free-public-data-sets <br>
-https://www.dataquest.io/blog/free-datasets-for-projects/ <br>
-https://chartio.com/learn/data-analytics/where-to-find-free-datasets/ <br>
-https://data.world/datasets/free <br>
+* https://www.tableau.com/learn/articles/free-public-data-sets <br>
+* https://www.dataquest.io/blog/free-datasets-for-projects/ <br>
+* https://chartio.com/learn/data-analytics/where-to-find-free-datasets/ <br>
+* https://data.world/datasets/free <br>
 
 
 ---
