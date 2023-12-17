@@ -21,7 +21,7 @@ Observação:
 
 Translito
 
-
+Quillbot https://quillbot.com/
 
 ---
 # 2. Análise gráfica de artigos, citações, etc
@@ -32,6 +32,10 @@ Sci2 tool https://sci2.cns.iu.edu/user/index.php
 
 Webometric Analyst http://lexiurl.wlv.ac.uk/index.html
 
+ResearchRabbit https://www.researchrabbit.ai/
+
+ResearchRabbit https://www.researchrabbit.ai/
+
 ---
 # 3. Suporte a escrita de artigos
 
@@ -41,17 +45,29 @@ Mendeley https://www.mendeley.com/reference-management/reference-manager
 
 PoP https://harzing.com/resources/publish-or-perish
 
-Zotero
+Zotero https://www.zotero.org/
 
 ## 3.2. Revisor gramatical 
 
-Grammarly
+Grammarly https://app.grammarly.com/
+
+QuillBot https://quillbot.com/
 
 ## 3.3. DOI
 
 Crossref https://github.com/plotly/dash
 
+## 3.4. Sumarização de artigos
 
+Explainpaper https://www.explainpaper.com/
+
+ScuSummary https://scisummary.com/
+
+QuillBot https://quillbot.com/
+
+Scispace https://typeset.io/pricing
+
+ResearchRabbit https://www.researchrabbit.ai/
 
 ---
 # 4. Outras referências
@@ -68,6 +84,8 @@ World comparison https://www.scimagojr.com/worldreport.php
 Subject buble https://www.scimagojr.com/mapgen.php?maptype=bc
 
 Scimago https://www.scimagojr.com/
+
+Scopus preview https://www.scopus.com/home.uri
 
 ---
 # 5. Python
