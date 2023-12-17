@@ -75,6 +75,7 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 |--- | --- |
 |Publicação sem peer review | https://arxiv.org/ |
 | "free open-access publication service" | https://ceur-ws.org/ |
+| Auxílio para citação | https://www.mybib.com/#/projects/6MJDW6/citations |
 
 ## 3.1. Gerenciador de artigos e referências
 
@@ -83,6 +84,11 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Mendeley | https://www.mendeley.com/reference-management/reference-manager |
 | PoP | https://harzing.com/resources/publish-or-perish |
 | Zotero | https://www.zotero.org/ |
+| Jabref | https://www.jabref.org/ |
+| BibSonomy | https://www.bibsonomy.org/gettingStarted |
+| OpenPaper | https://www.openpaper.work/en/ |
+
+
 
 ## 3.2. Revisor gramatical 
 
