@@ -7,7 +7,8 @@ Observação:
 1. Lista de ferramentas para suporte a planejamento, escrita e revisão de artigos.
 2. Este material foi ou poderá ser usado em sala de aula.
 3. Este material recebe recomendações de tercerios (professores, técnicos e alunos) após avaliação.
-4. A relação abaixo está em construção.
+4. Alguns items poderão ser classificados em mais de uma categoria.
+5. A relação abaixo está em construção.
 ```
 
 ---
