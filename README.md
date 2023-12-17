@@ -211,6 +211,25 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Oasisbr | https://oasisbr.ibict.br/vufind/ |
 | OpenAire | https://explore.openaire.eu/ |
 | Visão | https://visao.ibict.br/ |
+| Google dataset | https://datasetsearch.research.google.com/ |
+| Google trends | https://trends.google.com/trends/explore |
+| Datahub | https://datahub.io/docs/about |
+| Earthdata | https://www.earthdata.nasa.gov/ |
+| Opendata cern | https://opendata.cern.ch/ |
+| WHO data repository | https://apps.who.int/gho/data/node.home |
+| Nasdaq | https://data.nasdaq.com/search |
+| Acidentes aviação aérea | https://www.planecrashinfo.com/database.htm |
+| Iris | https://archive.ics.uci.edu/dataset/53/iris |
+| UC Irvine Machine Learning Repository | https://archive.ics.uci.edu/ |
+| Statista | https://www.statista.com/ |
+| Interview query | https://www.interviewquery.com/p/free-datasets |
+
+Outras fontes de datasets:
+https://www.tableau.com/learn/articles/free-public-data-sets
+https://www.dataquest.io/blog/free-datasets-for-projects/
+https://chartio.com/learn/data-analytics/where-to-find-free-datasets/
+https://data.world/datasets/free
+
 
 ---
 # 9. Visualização de dados
@@ -326,7 +345,9 @@ As informações aqui contidas podem ser alteradas sem aviso prévio.
 
 
 ```
-Licença: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
+Licença: 
+Lista mantida pelo Prof. Dr. Monteiro, E. S.
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 ```
 
