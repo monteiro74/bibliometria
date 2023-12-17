@@ -163,6 +163,8 @@ Tree map https://www.cs.umd.edu/hcil/treemap/
 
 Citespace http://cluster.cis.drexel.edu/%7Ecchen/citespace/
 
+VOSviewer https://www.vosviewer.com/
+
 ---
 # 8. Datasets
 
