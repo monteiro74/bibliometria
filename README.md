@@ -281,6 +281,8 @@ Outras fontes de datasets:
 | Citespace | http://cluster.cis.drexel.edu/%7Ecchen/citespace/ |
 | Visão | https://visao.ibict.br/ |
 
+Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
+
 ---
 # 10. Bibliometrics + github
 
