@@ -12,14 +12,7 @@ Exemplo de análise bibliométrica:
 ![https://upload.wikimedia.org/wikipedia/commons/3/3f/A_synthesized_document_co-citation_network.png](https://upload.wikimedia.org/wikipedia/commons/3/3f/A_synthesized_document_co-citation_network.png)
 
 
-```
-Observação:
-1. Lista de recursos(ferramentas, sites, datasets) para suporte a escrita e revisão de artigos.
-2. Este material foi ou poderá ser usado em sala de aula.
-3. Este material recebe recomendações de tercerios (professores, técnicos e alunos) após avaliação.
-4. Alguns items poderão ser classificados em mais de uma categoria.
-5. A relação abaixo está em construção.
-```
+
 
 ---
 # Sumário
@@ -333,7 +326,13 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 ```
-Observação: Primeira postagem em: Dezembro/2023.
+Observação: 
+1. Lista de recursos(ferramentas, sites, datasets) para suporte a escrita e revisão de artigos.
+2. Este material foi ou poderá ser usado em sala de aula.
+3. Este material recebe recomendações de tercerios (professores, técnicos e alunos) após avaliação.
+4. Alguns items poderão ser classificados em mais de uma categoria.
+5. A relação abaixo está em construção.
+Primeira postagem em: Dezembro/2023.
 ```
 
 
