@@ -2,7 +2,7 @@
 
 **Recursos (ferramentas, sites, etc) para bibliometria e suporte a escrita/análise de artigos**
 
-O que é bibliometria ?
+O que é bibliometria, infometria e scientometria ?
 
 **Bibliometria** é a utilização de métodos estatísticos para analisar livros, artigos e outras publicações, especialmente em conteúdos científicos. Os métodos bibliométricos são frequentemente usados ​​no campo da biblioteconomia e da ciência da informação. A bibliometria está intimamente associada à cienciometria, à análise de métricas e indicadores científicos, a tal ponto que ambos os campos se sobrepõem em grande parte. Fonte: https://en.wikipedia.org/wiki/Bibliometrics
 
