@@ -1,4 +1,4 @@
-# Bibliometria e infometria
+# Bibliometria, infometria e scientometria
 
 **Recursos (ferramentas, sites, etc) para bibliometria e suporte a escrita/análise de artigos**
 
@@ -23,7 +23,7 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 
 
 
-- [Bibliometria e infometria](#bibliometria-e-infometria)
+- [Bibliometria, infometria e scientometria](#bibliometria-infometria-e-scientometria)
 - [Sumário](#sumário)
 - [1. Tradutores](#1-tradutores)
 - [2. Análise gráfica de artigos, citações, etc](#2-análise-gráfica-de-artigos-citações-etc)
