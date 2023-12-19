@@ -1,10 +1,14 @@
-# Bibliometria, infometria
+# Bibliometria e infometria
 
 **Recursos (ferramentas, sites, etc) para bibliometria e suporte a escrita/análise de artigos**
 
 O que é bibliometria ?
 
-**Bibliometria** é a utilização de métodos estatísticos para analisar livros, artigos e outras publicações, especialmente em conteúdos científicos. Os métodos bibliométricos são frequentemente usados ​​no campo da biblioteconomia e da ciência da informação. A bibliometria está intimamente associada à cienciometria, à análise de métricas e indicadores científicos, a tal ponto que ambos os campos se sobrepõem em grande parte.
+**Bibliometria** é a utilização de métodos estatísticos para analisar livros, artigos e outras publicações, especialmente em conteúdos científicos. Os métodos bibliométricos são frequentemente usados ​​no campo da biblioteconomia e da ciência da informação. A bibliometria está intimamente associada à cienciometria, à análise de métricas e indicadores científicos, a tal ponto que ambos os campos se sobrepõem em grande parte. Fonte: https://en.wikipedia.org/wiki/Bibliometrics
+
+**Infometria**: A Informetria é o estudo dos aspectos quantitativos da informação, é uma extensão e evolução da bibliometria e cienciometria tradicionais. A Informetria utiliza métodos bibliométricos e cienciométricos para estudar principalmente os problemas de gerenciamento de informação bibliográfica e avaliação de ciência e tecnologia. Fonte: https://en.wikipedia.org/wiki/Informetrics#Difference_Between_Informetrics,_Bibliometrics_and_Scientometrics
+
+**Scientometria**: A cientometria é um ramo da ciência que avalia e prevê quantitativamente o processo e a gestão das atividades científicas, a fim de revelar seus padrões e tendências de desenvolvimento. Fonte: https://en.wikipedia.org/wiki/Informetrics#Difference_Between_Informetrics,_Bibliometrics_and_Scientometrics
 
 
 Exemplo de análise bibliométrica:
@@ -18,7 +22,8 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 # Sumário
 
 
-- [Bibliometria, infometria](#bibliometria-infometria)
+
+- [Bibliometria e infometria](#bibliometria-e-infometria)
 - [Sumário](#sumário)
 - [1. Tradutores](#1-tradutores)
 - [2. Análise gráfica de artigos, citações, etc](#2-análise-gráfica-de-artigos-citações-etc)
@@ -44,8 +49,6 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 - [15. Ferramentas para analytics](#15-ferramentas-para-analytics)
 - [16. Outras ferramentas e + referências](#16-outras-ferramentas-e--referências)
 - [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
-
-
 
 ---
 # 1. Tradutores
