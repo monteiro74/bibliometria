@@ -11,7 +11,7 @@ O que é bibliometria, infometria e scientometria ?
 **Scientometria**: A cientometria é um ramo da ciência que avalia e prevê quantitativamente o processo e a gestão das atividades científicas, a fim de revelar seus padrões e tendências de desenvolvimento. Fonte: https://en.wikipedia.org/wiki/Informetrics#Difference_Between_Informetrics,_Bibliometrics_and_Scientometrics
 
 
-Exemplo de análise bibliométrica:
+Exemplo de um gráfico de análise bibliométrica:
 
 ![https://upload.wikimedia.org/wikipedia/commons/3/3f/A_synthesized_document_co-citation_network.png](https://upload.wikimedia.org/wikipedia/commons/3/3f/A_synthesized_document_co-citation_network.png)
 
