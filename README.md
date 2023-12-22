@@ -50,7 +50,8 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 - [15. Ferramentas para analytics](#15-ferramentas-para-analytics)
 - [16. Latex](#16-latex)
   - [16.1. Editores latex online](#161-editores-latex-online)
-  - [16.2. Editores latex](#162-editores-latex)
+  - [16.2. Editores latex (off line)](#162-editores-latex-off-line)
+  - [16.3. Comandos básicos para formatação dentro do Latex](#163-comandos-básicos-para-formatação-dentro-do-latex)
 - [17. Outras ferramentas e + referências](#17-outras-ferramentas-e--referências)
 - [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
 
@@ -392,6 +393,8 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 
 ## 16.1. Editores latex online
 
+* Alguns possuem recursos adicionais que requerem pagamento.
+
 | Recurso | URL |
 |--- | --- |
 | Overleaf | https://www.overleaf.com/ |
@@ -400,7 +403,9 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | ShareLatex | https://www.sharelatex.com/ |
 | Papeeria | https://papeeria.com/ |  
 
-## 16.2. Editores latex
+## 16.2. Editores latex (off line)
+
+* Estes podem ser instalados localmente.
 
 | Recurso | URL |
 |--- | --- |
@@ -409,6 +414,10 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | TexNicCenter | https://www.texniccenter.org/ |
 | Lyx | https://www.lyx.org/ | 
 | TEXworks | https://www.tug.org/texworks/ |
+
+## 16.3. Comandos básicos para formatação dentro do Latex
+
+
 
 ---
 # 17. Outras ferramentas e + referências
