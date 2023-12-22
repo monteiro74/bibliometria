@@ -35,7 +35,7 @@
 - [15. Ferramentas para analytics](#15-ferramentas-para-analytics)
 - [16. Latex](#16-latex)
   - [16.1. Editores latex online](#161-editores-latex-online)
-  - [16.2. Editores latex (off line)](#162-editores-latex-off-line)
+  - [16.2. Editores latex](#162-editores-latex)
   - [16.3. Comandos básicos para formatação dentro do Latex](#163-comandos-básicos-para-formatação-dentro-do-latex)
   - [16.4. Exemplo de formatação bibtex](#164-exemplo-de-formatação-bibtex)
 - [17. Outras ferramentas e + referências](#17-outras-ferramentas-e--referências)
@@ -413,7 +413,7 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 
 
 
-## 16.2. Editores latex (off line)
+## 16.2. Editores latex
 
 * Estes podem ser instalados localmente.
 
@@ -425,7 +425,7 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | Lyx | https://www.lyx.org/ | 
 | TEXworks | https://www.tug.org/texworks/ |
 
-Captura de tela do TeXStudio no Windows 7:
+Captura de tela do TeXStudio:
 ![https://www.tug.org/texworks/img/texworks-win7.png](https://www.tug.org/texworks/img/texworks-win7.png)
 Fonte da figura: https://www.tug.org/texworks/img/texworks-win7.png
 
