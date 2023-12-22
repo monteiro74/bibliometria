@@ -425,11 +425,8 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | Lyx | https://www.lyx.org/ | 
 | TEXworks | https://www.tug.org/texworks/ |
 
-Captura de tela do TeXStudio:
-![https://www.tug.org/texworks/img/texworks-win7.png](https://www.tug.org/texworks/img/texworks-win7.png)
-Fonte da figura: https://www.tug.org/texworks/img/texworks-win7.png
 
-Captura de tela do Lyx:
+Exemplo de um editor latex, abaixo uma captura de tela do Lyx:
 ![https://www.lyx.org/images/about/main_window.png](https://www.lyx.org/images/about/main_window.png)
 Fonte da figura: https://www.lyx.org/images/about/main_window.png
 
