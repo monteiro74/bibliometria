@@ -52,6 +52,7 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
   - [16.1. Editores latex online](#161-editores-latex-online)
   - [16.2. Editores latex (off line)](#162-editores-latex-off-line)
   - [16.3. Comandos básicos para formatação dentro do Latex](#163-comandos-básicos-para-formatação-dentro-do-latex)
+  - [16.4. Exemplo de formatação bibtex](#164-exemplo-de-formatação-bibtex)
 - [17. Outras ferramentas e + referências](#17-outras-ferramentas-e--referências)
 - [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
 
@@ -417,6 +418,144 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 
 ## 16.3. Comandos básicos para formatação dentro do Latex
 
+
+\textcolor{violet}{ \textst{ } }  <--- Texto colorido e taxado
+
+\textbf{greatest} 
+discoveries in \underline{science} 
+were made by \textbf{\textit{accident}}.
+
+* Formas de citação, dependendo do modelo de documento o efeito será diferente:
+
+\citetext{Monteiro} 
+
+\cite{Monteiro}
+
+\citep{Monteiro}
+
+\citep{Monteiro}
+
+Negrito e itálico:
+
+\textbf{negrito} 
+\textbf{italico}
+
+Forçar quebra de página:
+
+\newpage
+ou
+\clearpage
+
+Posicionamento de figura:
+
+\begin{figure}[h]
+\includegraphics[width=0.5\textwidth, inner]{NomeDoArquivoDaFigura.pdf}
+\caption{Caption}
+\label{fig:figure123}
+\end{figure}
+
+Parâmetros usados entre []
+
+h	Coloca a imagem "here", aqui
+t	Topo da página
+b	Fim da página
+p	Em uma pagina flutuando
+!	Sobre escreve os parâmetros do latex e força o posicionamento
+H	é o equivalento ao h!, força o posicionamento na posição determinada
+
+
+## 16.4. Exemplo de formatação bibtex
+
+3 modelos de formatação bibtex:
+
+
+**Modelos de bibtex:**
+
+Techreport:
+```
+@TECHREPORT{relatorio,
+  AUTHOR = {},
+  TITLE = {},
+  NUMBER = {},
+  INSTITUTION = {},
+  ADDRESS = {},
+  ABSTRACT = {},
+  KEYWORDS = {},
+  NOTE = {},
+  MONTH = {},
+  YEAR  =  {},
+  Date-Added = {},
+  Date-Modified = {},
+  AUTHOR1_URL = {},
+  AUTHOR1_EMAIL = {},
+  AUTHOR1_URL = {},
+  AUTHOR1_EMAIL = {},
+  PAGES = {},
+  NUMPAGES = {},  
+  FILE  = {},
+  URL   = {},
+  DOI = {},
+  CONTACT = {},
+  TYPE = {}, 
+  GROUP = {},
+  VOLUME = {},
+  SERIES = {},
+  ISBN   = {},
+  ISSN = {},
+}
+```
+ 
+Livro:
+```
+
+@BOOK{livro,
+  TITLE = {},
+  SUBTITLE = {},
+  AUTHOR = {},
+  YEAR = {}, 
+  PUBLISHER = {},
+  PAGES = {},
+  ISBN ={},
+}
+```
+
+Artigo:
+```
+
+@article{artigo,
+title = {},
+author = {},
+journal = {},
+volume = {},
+number = {},
+pages = {},
+year = {},
+address = {},
+edition = {},
+publisher = {},
+DOI = {},
+URL = {},
+}
+```
+ 
+Diversos:
+```
+
+@Misc{Lei:12651:2012,
+  author       = {Brasil},
+  title        = {DECRETO Nº 10.833, DE 7 DE OUTUBRO DE 2021},
+  nota         = {},
+  journal      = {Diário Oficial da República Federativa do Brasil},
+  year         = {2021},
+  date         = {2021-10-07},
+  organization = {Brasil},
+  issn         = {1677-7042},
+  url          = {https://www.in.gov.br/web/dou/-/decreto-n-10.833-de-7-de-outubro-de-2021-351524955},
+  urldate      = {2021-10-07},
+  address      = {Brasília, DF},
+  shorttitle   = {Lei nº 10.833/2021},
+}
+```
 
 
 ---
