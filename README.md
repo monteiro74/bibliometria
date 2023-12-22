@@ -22,7 +22,6 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 # Sumário
 
 
-
 - [Bibliometria, infometria e scientometria](#bibliometria-infometria-e-scientometria)
 - [Sumário](#sumário)
 - [1. Tradutores](#1-tradutores)
@@ -51,6 +50,7 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 - [15. Ferramentas para analytics](#15-ferramentas-para-analytics)
 - [16. Outras ferramentas e + referências](#16-outras-ferramentas-e--referências)
 - [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
+
 
 ---
 # 1. Tradutores
