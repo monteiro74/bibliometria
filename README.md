@@ -2,21 +2,6 @@
 
 **Recursos (ferramentas, sites, etc) para bibliometria e suporte a escrita/análise de artigos**
 
-O que é bibliometria, infometria e scientometria ?
-
-**Bibliometria** é a utilização de métodos estatísticos para analisar livros, artigos e outras publicações, especialmente em conteúdos científicos. Os métodos bibliométricos são frequentemente usados ​​no campo da biblioteconomia e da ciência da informação. A bibliometria está intimamente associada à cienciometria, à análise de métricas e indicadores científicos, a tal ponto que ambos os campos se sobrepõem em grande parte. Fonte: https://en.wikipedia.org/wiki/Bibliometrics
-
-**Infometria**: A Informetria é o estudo dos aspectos quantitativos da informação, é uma extensão e evolução da bibliometria e cienciometria tradicionais. A Informetria utiliza métodos bibliométricos e cienciométricos para estudar principalmente os problemas de gerenciamento de informação bibliográfica e avaliação de ciência e tecnologia. Fonte: https://en.wikipedia.org/wiki/Informetrics#Difference_Between_Informetrics,_Bibliometrics_and_Scientometrics
-
-**Scientometria**: A cientometria é um ramo da ciência que avalia e prevê quantitativamente o processo e a gestão das atividades científicas, a fim de revelar seus padrões e tendências de desenvolvimento. Fonte: https://en.wikipedia.org/wiki/Informetrics#Difference_Between_Informetrics,_Bibliometrics_and_Scientometrics
-
-
-Exemplo de um gráfico de análise bibliométrica:
-
-![https://upload.wikimedia.org/wikipedia/commons/3/3f/A_synthesized_document_co-citation_network.png](https://upload.wikimedia.org/wikipedia/commons/3/3f/A_synthesized_document_co-citation_network.png)
-
-Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synthesized_document_co-citation_network.png
-
 
 ---
 # Sumário
@@ -55,6 +40,27 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
   - [16.4. Exemplo de formatação bibtex](#164-exemplo-de-formatação-bibtex)
 - [17. Outras ferramentas e + referências](#17-outras-ferramentas-e--referências)
 - [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
+
+
+
+
+
+O que é bibliometria, infometria e scientometria ?
+
+**Bibliometria** é a utilização de métodos estatísticos para analisar livros, artigos e outras publicações, especialmente em conteúdos científicos. Os métodos bibliométricos são frequentemente usados ​​no campo da biblioteconomia e da ciência da informação. A bibliometria está intimamente associada à cienciometria, à análise de métricas e indicadores científicos, a tal ponto que ambos os campos se sobrepõem em grande parte. Fonte: https://en.wikipedia.org/wiki/Bibliometrics
+
+**Infometria**: A Informetria é o estudo dos aspectos quantitativos da informação, é uma extensão e evolução da bibliometria e cienciometria tradicionais. A Informetria utiliza métodos bibliométricos e cienciométricos para estudar principalmente os problemas de gerenciamento de informação bibliográfica e avaliação de ciência e tecnologia. Fonte: https://en.wikipedia.org/wiki/Informetrics#Difference_Between_Informetrics,_Bibliometrics_and_Scientometrics
+
+**Scientometria**: A cientometria é um ramo da ciência que avalia e prevê quantitativamente o processo e a gestão das atividades científicas, a fim de revelar seus padrões e tendências de desenvolvimento. Fonte: https://en.wikipedia.org/wiki/Informetrics#Difference_Between_Informetrics,_Bibliometrics_and_Scientometrics
+
+
+Exemplo de um gráfico de análise bibliométrica:
+
+![https://upload.wikimedia.org/wikipedia/commons/3/3f/A_synthesized_document_co-citation_network.png](https://upload.wikimedia.org/wikipedia/commons/3/3f/A_synthesized_document_co-citation_network.png)
+
+Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synthesized_document_co-citation_network.png
+
+
 
 
 ---
@@ -360,7 +366,7 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 
 | Recurso | URL |
 |--- | --- |
-| DOAJ (DIRECTORY OF OPEN ACCESS JOURNALS) | https://doaj.org/ |
+| DOAJ (Diretórios de jornais open access) | https://doaj.org/ |
 | Redalic | https://www.redalyc.org/ |
 | Latindex | https://www.latindex.org/latindex/ |
 | Database index | https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines |
@@ -374,6 +380,7 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | Resurchify fator de impacto | https://www.resurchify.com/if/impact-factor-search |
 | Resurchify Journal Ranking | https://www.resurchify.com/ranking |
 | Google Scholar metrics | https://scholar.google.com/citations?view_op=metrics_intro&hl=en |
+
 
 ---
 # 15. Ferramentas para analytics
@@ -404,6 +411,8 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | ShareLatex | https://www.sharelatex.com/ |
 | Papeeria | https://papeeria.com/ |  
 
+
+
 ## 16.2. Editores latex (off line)
 
 * Estes podem ser instalados localmente.
@@ -416,17 +425,29 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | Lyx | https://www.lyx.org/ | 
 | TEXworks | https://www.tug.org/texworks/ |
 
+Captura de tela do TeXStudio no Windows 7:
+![https://www.tug.org/texworks/img/texworks-win7.png](https://www.tug.org/texworks/img/texworks-win7.png)
+Fonte da figura: https://www.tug.org/texworks/img/texworks-win7.png
+
+Captura de tela do Lyx:
+![https://www.lyx.org/images/about/main_window.png](https://www.lyx.org/images/about/main_window.png)
+Fonte da figura: https://www.lyx.org/images/about/main_window.png
+
 ## 16.3. Comandos básicos para formatação dentro do Latex
 
+**Formatação de texto:**
 
+```
 \textcolor{violet}{ \textst{ } }  <--- Texto colorido e taxado
 
-\textbf{greatest} 
-discoveries in \underline{science} 
-were made by \textbf{\textit{accident}}.
+\textbf{negrito} 
 
-* Formas de citação, dependendo do modelo de documento o efeito será diferente:
+\textbf{italico}
+```
 
+**Formas de citação, dependendo do modelo de documento o efeito será diferente:**
+
+```
 \citetext{Monteiro} 
 
 \cite{Monteiro}
@@ -434,46 +455,46 @@ were made by \textbf{\textit{accident}}.
 \citep{Monteiro}
 
 \citep{Monteiro}
+```
 
-Negrito e itálico:
 
-\textbf{negrito} 
-\textbf{italico}
+**Forçar quebra de página:**
 
-Forçar quebra de página:
-
+```
 \newpage
 ou
 \clearpage
+```
 
-Posicionamento de figura:
-
+**Posicionamento de figura:**
+```
 \begin{figure}[h]
 \includegraphics[width=0.5\textwidth, inner]{NomeDoArquivoDaFigura.pdf}
 \caption{Caption}
 \label{fig:figure123}
 \end{figure}
+```
 
 Parâmetros usados entre []
 
-h	Coloca a imagem "here", aqui
-t	Topo da página
-b	Fim da página
-p	Em uma pagina flutuando
-!	Sobre escreve os parâmetros do latex e força o posicionamento
-H	é o equivalento ao h!, força o posicionamento na posição determinada
+* h	Coloca a imagem "here", aqui
+* t	Topo da página
+* b	Fim da página
+* p	Em uma pagina flutuando
+* !	Sobre escreve os parâmetros do latex e força o posicionamento
+* H	é o equivalento ao h!, força o posicionamento na posição determinada
 
 
 ## 16.4. Exemplo de formatação bibtex
 
-3 modelos de formatação bibtex:
+**4 modelos de formatação bibtex:**
 
 
-**Modelos de bibtex:**
+**Modelos para uso via bibtex:**
 
-Techreport:
+1 - Techreport:
 ```
-@TECHREPORT{relatorio,
+@Techreport{relatorio,
   AUTHOR = {},
   TITLE = {},
   NUMBER = {},
@@ -505,7 +526,7 @@ Techreport:
 }
 ```
  
-Livro:
+2 - Livro:
 ```
 
 @BOOK{livro,
@@ -519,7 +540,7 @@ Livro:
 }
 ```
 
-Artigo:
+3 - Artigo:
 ```
 
 @article{artigo,
@@ -538,7 +559,7 @@ URL = {},
 }
 ```
  
-Diversos:
+4 - Diversos:
 ```
 
 @Misc{Lei:12651:2012,
