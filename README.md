@@ -590,6 +590,7 @@ URL = {},
 | Loop (database of researcher impact by Frontiers) | https://loop.frontiersin.org/ |
 | Movimento acesso aberto | https://globaldiamantoa.org/manifiesto/ |
 | Lista de ferramentas bibliomáticas | https://en.wikipedia.org/wiki/List_of_bibliometrics_software |
+| List of datasets for machine-learning research | https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research |
 
 
 
