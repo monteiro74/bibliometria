@@ -40,6 +40,7 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 - [6. R](#6-r)
 - [7. Mapas 3D, Mapas de palavras, Mapas de artigos](#7-mapas-3d-mapas-de-palavras-mapas-de-artigos)
 - [8. Datasets](#8-datasets)
+  - [8.1. Datasets de imagens](#81-datasets-de-imagens)
 - [9. Visualização de dados](#9-visualização-de-dados)
 - [10. Bibliometrics + github](#10-bibliometrics--github)
 - [11. Profile](#11-profile)
@@ -267,6 +268,22 @@ Outras fontes de datasets:
 * https://www.dataquest.io/blog/free-datasets-for-projects/ <br>
 * https://chartio.com/learn/data-analytics/where-to-find-free-datasets/ <br>
 * https://data.world/datasets/free <br>
+
+
+## 8.1. Datasets de imagens
+
+| Recurso | URL |
+|--- | --- |
+| Microsoft COCO | https://cocodataset.org/#home |
+| Object Detection Datasets | https://public.roboflow.com/object-detection |
+| Fotos/Imagens de satélite/sensores remotos | https://eod-grss-ieee.com/dataset-search |
+| Browse State-of-the-Art | https://paperswithcode.com/sota e https://paperswithcode.com/datasets?q=center+drone+warfare&mod=images |
+| Datasets diversos | https://www.madronavl.com/launchable/public-data-sources-images |
+| List of satellite image training datasets | https://github.com/chrieke/awesome-satellite-imagery-datasets |
+| Sample drone data | https://www.globhe.com/sample-drone-data |
+| Free Satellite Imagery Sources | https://eos.com/blog/free-satellite-imagery-sources/ |
+ 
+
 
 
 ---
