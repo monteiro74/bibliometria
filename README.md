@@ -48,7 +48,10 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 - [13. Diretórios](#13-diretórios)
 - [14. Impact index](#14-impact-index)
 - [15. Ferramentas para analytics](#15-ferramentas-para-analytics)
-- [16. Outras ferramentas e + referências](#16-outras-ferramentas-e--referências)
+- [16. Latex](#16-latex)
+  - [16.1. Editores latex online](#161-editores-latex-online)
+  - [16.2. Editores latex](#162-editores-latex)
+- [17. Outras ferramentas e + referências](#17-outras-ferramentas-e--referências)
 - [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
 
 
@@ -162,10 +165,11 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 
 | Recurso | URL |
 |--- | --- |
-| LitStudy | https://nlesc.github.io/litstudy/|
-| SCi2 | https://github.com/CIShell/sci2/releases/tag/v1.3.0|
-| ScientoPy | https://github.com/jpruiz84/ScientoPy|
-| Litstudy | https://github.com/NLeSC/litstudy?tab=readme-ov-file|
+| LitStudy | https://nlesc.github.io/litstudy/ |
+| SCi2 | https://github.com/CIShell/sci2/releases/tag/v1.3.0 |
+| ScientoPy | https://github.com/jpruiz84/ScientoPy |
+| Litstudy | https://github.com/NLeSC/litstudy?tab=readme-ov-file |
+| pyBibX | https://pypi.org/project/pyBibX/ |
 
 ## 5.1. Python Data apps
 
@@ -383,9 +387,31 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | Quirkos | https://www.quirkos.com/index.html |
 
 
+# 16. Latex
+
+
+## 16.1. Editores latex online
+
+| Recurso | URL |
+|--- | --- |
+| Overleaf | https://www.overleaf.com/ |
+| Latex Base | https://latexbase.com/d/68c355f4-4933-4546-9035-b2c1d37e58c8 |
+| Authorea | https://www.authorea.com/users/87589/articles/167806-online-latex-editor
+| ShareLatex | https://www.sharelatex.com/ |
+| Papeeria | https://papeeria.com/ |  
+
+## 16.2. Editores latex
+
+| Recurso | URL |
+|--- | --- |
+| TeXmaker | https://www.xm1math.net/texmaker/ |
+| TeXstudio | https://www.texstudio.org/
+| TexNicCenter | https://www.texniccenter.org/ |
+| Lyx | https://www.lyx.org/ | 
+| TEXworks | https://www.tug.org/texworks/ |
 
 ---
-# 16. Outras ferramentas e + referências
+# 17. Outras ferramentas e + referências
 
 | Recurso | URL |
 |--- | --- |
