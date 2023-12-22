@@ -41,6 +41,7 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 - [7. Mapas 3D, Mapas de palavras, Mapas de artigos](#7-mapas-3d-mapas-de-palavras-mapas-de-artigos)
 - [8. Datasets](#8-datasets)
   - [8.1. Datasets de imagens](#81-datasets-de-imagens)
+  - [8.2. Datasets voltados para agricultura](#82-datasets-voltados-para-agricultura)
 - [9. Visualização de dados](#9-visualização-de-dados)
 - [10. Bibliometrics + github](#10-bibliometrics--github)
 - [11. Profile](#11-profile)
@@ -283,6 +284,20 @@ Outras fontes de datasets:
 | Sample drone data | https://www.globhe.com/sample-drone-data |
 | Free Satellite Imagery Sources | https://eos.com/blog/free-satellite-imagery-sources/ |
  
+
+## 8.2. Datasets voltados para agricultura
+
+| Recurso | URL |
+|--- | --- |
+| Data world agriculture | https://data.world/datasets/agriculture |
+| UNIVERSITY OF WISCONSIN–MADISON LIBRARIES | https://researchguides.library.wisc.edu/agstats/data |
+| USDA | https://www.nass.usda.gov/datasets/ |
+| USDA Agricultural Research Service | https://www.ars.usda.gov/research/datasets/ |
+| AgReFed | https://www.agrefed.org.au/AgriculturalDatasets.php |
+| Kaggle agriculture dataset | https://www.kaggle.com/search?q=agriculture+dataset |
+| Agriculture Datasets for Computer Vision | https://blog.roboflow.com/top-agriculture-datasets-computer-vision/ |
+| FAO data dissemination | https://www.fao.org/statistics/data-dissemination/agrifood-systems/en |
+| FAOSTAT | https://www.fao.org/faostat/en/#home |
 
 
 
