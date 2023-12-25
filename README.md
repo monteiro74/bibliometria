@@ -1,4 +1,4 @@
-# Bibliometria, infometria e scientometria
+# Bibliometria, infometria e cientometria
 
 **Recursos (ferramentas, sites, etc) para bibliometria e suporte a escrita/análise de artigos**
 
@@ -7,7 +7,7 @@
 # Sumário
 
 
-- [Bibliometria, infometria e scientometria](#bibliometria-infometria-e-scientometria)
+- [Bibliometria, infometria e cientometria](#bibliometria-infometria-e-cientometria)
 - [Sumário](#sumário)
 - [1. Tradutores](#1-tradutores)
 - [2. Análise gráfica de artigos, citações, etc](#2-análise-gráfica-de-artigos-citações-etc)
@@ -45,13 +45,13 @@
 
 
 
-O que é bibliometria, infometria e scientometria ?
+O que é bibliometria, infometria e cientometria ?
 
 **Bibliometria** é a utilização de métodos estatísticos para analisar livros, artigos e outras publicações, especialmente em conteúdos científicos. Os métodos bibliométricos são frequentemente usados ​​no campo da biblioteconomia e da ciência da informação. A bibliometria está intimamente associada à cienciometria, à análise de métricas e indicadores científicos, a tal ponto que ambos os campos se sobrepõem em grande parte. Fonte: https://en.wikipedia.org/wiki/Bibliometrics
 
 **Infometria**: A Informetria é o estudo dos aspectos quantitativos da informação, é uma extensão e evolução da bibliometria e cienciometria tradicionais. A Informetria utiliza métodos bibliométricos e cienciométricos para estudar principalmente os problemas de gerenciamento de informação bibliográfica e avaliação de ciência e tecnologia. Fonte: https://en.wikipedia.org/wiki/Informetrics#Difference_Between_Informetrics,_Bibliometrics_and_Scientometrics
 
-**Scientometria**: A cientometria é um ramo da ciência que avalia e prevê quantitativamente o processo e a gestão das atividades científicas, a fim de revelar seus padrões e tendências de desenvolvimento. Fonte: https://en.wikipedia.org/wiki/Informetrics#Difference_Between_Informetrics,_Bibliometrics_and_Scientometrics
+**Cientometria**: A cientometria é um ramo da ciência que avalia e prevê quantitativamente o processo e a gestão das atividades científicas, a fim de revelar seus padrões e tendências de desenvolvimento. Fonte: https://en.wikipedia.org/wiki/Informetrics#Difference_Between_Informetrics,_Bibliometrics_and_Scientometrics
 
 
 Exemplo de um gráfico de análise bibliométrica:
