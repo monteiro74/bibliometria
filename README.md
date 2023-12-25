@@ -428,6 +428,7 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 
 Exemplo de um editor latex, abaixo uma captura de tela do Lyx:
 ![https://www.lyx.org/images/about/main_window.png](https://www.lyx.org/images/about/main_window.png)
+
 Fonte da figura: https://www.lyx.org/images/about/main_window.png
 
 ## 16.3. Comandos básicos para formatação dentro do Latex
