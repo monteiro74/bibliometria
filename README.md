@@ -39,6 +39,7 @@
   - [16.3. Comandos básicos para formatação dentro do Latex](#163-comandos-básicos-para-formatação-dentro-do-latex)
   - [16.4. Exemplo de formatação bibtex](#164-exemplo-de-formatação-bibtex)
 - [17. Outras ferramentas e + referências](#17-outras-ferramentas-e--referências)
+- [18. Preprints](#18-preprints)
 - [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
 
 
@@ -596,8 +597,27 @@ URL = {},
 
 
 
+# 18. Preprints
 
 
+| Recurso | URL |
+|--- | --- |
+| Center for open science | https://www.cos.io/ |
+| OSF Preprints | https://osf.io/preprints?view_only= |
+| AfricArXiv | https://info.africarxiv.org/ |
+| AgriXiv | https://osf.io/preprints/agrixiv |
+| arXiv | https://arxiv.org/ |
+| bioRxiv | https://www.biorxiv.org/ |
+| ChemRxiv | https://chemrxiv.org/engage/chemrxiv/public-dashboard |
+| engrxiv | https://engrxiv.org/ |
+| FocUS Archive | https://osf.io/preprints/focusarchive |
+| LawArXiv | https://osf.io/preprints/lawarxiv |
+| mdRxiv | https://www.medrxiv.org/ |
+| MindRxiv | https://osf.io/preprints/mindrxiv/discover  |
+| OSF Preprints | https://osf.io/preprints |
+| Paleorxiv | https://osf.io/preprints/paleorxiv |
+| PsyArXiv | https://osf.io/preprints/psyarxiv |
+| SOCAriv | https://osf.io/preprints/socarxiv |
 
 
 ---
