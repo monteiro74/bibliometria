@@ -370,6 +370,7 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | Redalic | https://www.redalyc.org/ |
 | Latindex | https://www.latindex.org/latindex/ |
 | Database index | https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines |
+| Lista de editores academicos | https://en.wikipedia.org/wiki/List_of_academic_publishers_by_preprint_policy |
 
 ---
 # 14. Impact index
