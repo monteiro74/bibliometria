@@ -196,6 +196,7 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Easyalluvial | https://erblast.github.io/easyalluvial/ |
 | scopusAPI | https://github.com/christopherBelter/scopusAPI |
 | RQDA | http://rqda.r-forge.r-project.org/ |
+| Bookdown | https://bookdown.org/ |
 
 ---
 # 7. Mapas 3D, Mapas de palavras, Mapas de artigos
