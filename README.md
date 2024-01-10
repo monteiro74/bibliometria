@@ -20,6 +20,8 @@
   - [3.5. Revisão de literatura](#35-revisão-de-literatura)
   - [3.6. Journal finder](#36-journal-finder)
 - [4. Estatísticas do Scimago e outros](#4-estatísticas-do-scimago-e-outros)
+  - [4.1. Journal Metrics](#41-journal-metrics)
+  - [4.2. Tipos de indicadores](#42-tipos-de-indicadores)
 - [5. Python](#5-python)
   - [5.1. Python Data apps](#51-python-data-apps)
 - [6. R](#6-r)
@@ -42,7 +44,6 @@
 - [17. Outras ferramentas e + referências](#17-outras-ferramentas-e--referências)
 - [18. Preprints](#18-preprints)
 - [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
-
 
 
 
@@ -169,6 +170,25 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Subject buble | https://www.scimagojr.com/mapgen.php?maptype=bc |
 | Scimago | https://www.scimagojr.com/ |
 | Scopus preview | https://www.scopus.com/home.uri |
+
+## 4.1. Journal Metrics
+
+| Recurso | URL |
+|--- | --- |
+| Scimago | https://www.scimagojr.com/ |
+| Eigen Factor | http://www.eigenfactor.org/projects/journalRank/journalsearch.php |
+| Google Scholar | https://scholar.google.com/citations?view_op=top_venues&hl=pt-BR |
+| CWTS Journal Indicators | https://www.journalindicators.com/indicators |
+| Scispace | https://typeset.io/journals |
+| exaly | https://exaly.com/journals/citations/ |
+
+## 4.2. Tipos de indicadores
+
+| Recurso | URL |
+|--- | --- |
+| Web of Science | Impact Factor, Immediacy Index, Cited/citing half-life, Eigenfactor |
+| Scopus | SNIP, SJR, CiteScore |
+| Google | H5-index |
 
 ---
 # 5. Python
