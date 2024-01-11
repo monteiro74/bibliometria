@@ -7,7 +7,6 @@
 ---
 # Sumário
 
-
 - [Bibliometria, infometria e cientometria](#bibliometria-infometria-e-cientometria)
 - [Sumário](#sumário)
 - [1. Tradutores](#1-tradutores)
@@ -34,6 +33,7 @@
 - [11. Profile](#11-profile)
 - [12. BD, Catálogos de inovação, pesquisas](#12-bd-catálogos-de-inovação-pesquisas)
 - [13. Diretórios](#13-diretórios)
+  - [13.1. Lista de journals predatórios](#131-lista-de-journals-predatórios)
 - [14. Impact index](#14-impact-index)
 - [15. Ferramentas para analytics](#15-ferramentas-para-analytics)
 - [16. Latex](#16-latex)
@@ -44,6 +44,7 @@
 - [17. Outras ferramentas e + referências](#17-outras-ferramentas-e--referências)
 - [18. Preprints](#18-preprints)
 - [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
+
 
 
 
@@ -394,6 +395,12 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | Latindex | https://www.latindex.org/latindex/ |
 | Database index | https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines |
 | Lista de editores academicos | https://en.wikipedia.org/wiki/List_of_academic_publishers_by_preprint_policy |
+
+## 13.1. Lista de journals predatórios
+
+| Recurso | URL |
+|--- | --- |
+| Predatóry Publishers |  https://www.openacessjournal.com/blog/predatory-publishers/ |
 
 ---
 # 14. Impact index
