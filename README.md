@@ -43,8 +43,8 @@
   - [16.4. Exemplo de formatação bibtex](#164-exemplo-de-formatação-bibtex)
 - [17. Outras ferramentas e + referências](#17-outras-ferramentas-e--referências)
 - [18. Preprints](#18-preprints)
+- [19. Recordando etapas da pesquisa acadêmica](#19-recordando-etapas-da-pesquisa-acadêmica)
 - [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
-
 
 
 
@@ -647,6 +647,57 @@ URL = {},
 | Paleorxiv | https://osf.io/preprints/paleorxiv |
 | PsyArXiv | https://osf.io/preprints/psyarxiv |
 | SOCAriv | https://osf.io/preprints/socarxiv |
+
+# 19. Recordando etapas da pesquisa acadêmica
+
+Etapas de uma pesquisa acadêmica irão fornecer dados para a elaboração do artigo científico, e nestas etapas podem ser usadas várias ferramentas citadas nesta página:
+
+1. Escolha do Tema:
+
+2. Identificação de uma área de interesse.
+Formulação de uma pergunta de pesquisa.
+Revisão Bibliográfica:
+
+3. Levantamento de estudos e pesquisas já existentes relacionadas ao tema.
+Análise crítica da literatura existente para identificar lacunas ou questões não resolvidas.
+Formulação de Hipóteses ou Objetivos:
+
+4. Desenvolvimento de suposições (no caso de pesquisas experimentais) ou definição de objetivos específicos (no caso de pesquisas descritivas ou exploratórias).
+Elaboração do Problema de Pesquisa:
+
+5. Explicitação clara do problema que a pesquisa pretende abordar.
+Definição da Metodologia:
+
+6. Escolha dos métodos de pesquisa (quantitativos, qualitativos ou mistos).
+Descrição detalhada dos procedimentos a serem seguidos.
+Coleta de Dados:
+
+7. Implementação da metodologia definida para coletar informações.
+Utilização de instrumentos apropriados, como questionários, entrevistas, experimentos, etc.
+Análise de Dados:
+
+8. Processamento e interpretação dos dados coletados.
+Aplicação de técnicas estatísticas ou análise qualitativa, conforme apropriado.
+Discussão dos Resultados:
+
+9. Interpretação dos resultados em relação à literatura existente.
+Exploração de implicações práticas ou teóricas dos resultados obtidos.
+Conclusões:
+
+10. Síntese das descobertas.
+Resposta à pergunta de pesquisa ou testagem da hipótese.
+Redação do Relatório Final:
+
+11. Estruturação do relatório de pesquisa conforme as normas acadêmicas.
+Inclusão de introdução, revisão de literatura, metodologia, resultados, discussão, conclusões e referências bibliográficas.
+Revisão e Edição:
+
+12. Revisão cuidadosa do relatório para garantir clareza, precisão e coesão.
+Correção de erros gramaticais e ortográficos.
+Apresentação dos Resultados:
+
+13. Apresentação oral ou escrita dos resultados em conferências, seminários, ou outros fóruns acadêmicos.
+
 
 
 ---
