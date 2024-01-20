@@ -43,7 +43,7 @@
   - [16.4. Exemplo de formatação bibtex](#164-exemplo-de-formatação-bibtex)
 - [17. Outras ferramentas e + referências](#17-outras-ferramentas-e--referências)
 - [18. Preprints](#18-preprints)
-- [19 Nuvem de palavras](#19-nuvem-de-palavras)
+- [19. Nuvem de palavras](#19-nuvem-de-palavras)
 - [20. Recordando etapas da pesquisa acadêmica](#20-recordando-etapas-da-pesquisa-acadêmica)
 - [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
 
@@ -65,7 +65,7 @@ Exemplo de um gráfico de análise bibliométrica:
 Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synthesized_document_co-citation_network.png
 
 
-
+[Voltar ao sumário](#sumário)
 
 ---
 # 1. Tradutores
@@ -75,6 +75,8 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Deepl | https://www.deepl.com/pt-BR/translator |
 | Translito | https://www.translito.com/portuguese/ |
 | Quillbot | https://quillbot.com/ |
+
+[Voltar ao sumário](#sumário)
 
 ---
 # 2. Análise gráfica de artigos, citações, etc
@@ -87,6 +89,7 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Webometric Analyst | http://lexiurl.wlv.ac.uk/index.html |
 | ResearchRabbit | https://www.researchrabbit.ai/ |
 
+[Voltar ao sumário](#sumário)
 
 ---
 # 3. Suporte a escrita de artigos
@@ -96,6 +99,8 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 |Publicação sem peer review | https://arxiv.org/ |
 | "free open-access publication service" | https://ceur-ws.org/ |
 | Auxílio para citação | https://www.mybib.com/#/projects/6MJDW6/citations |
+
+[Voltar ao sumário](#sumário)
 
 ## 3.1. Gerenciador de artigos e referências
 
@@ -108,7 +113,7 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | BibSonomy | https://www.bibsonomy.org/gettingStarted |
 | OpenPaper | https://www.openpaper.work/en/ |
 
-
+[Voltar ao sumário](#sumário)
 
 ## 3.2. Revisor gramatical 
 
@@ -117,12 +122,16 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Grammarly | https://app.grammarly.com/ |
 | QuillBot | https://quillbot.com/ |
 
+[Voltar ao sumário](#sumário)
+
 ## 3.3. DOI Digital object identifier
 
 | Recurso | URL |
 |--- | --- |
 | Crossref | https://github.com/plotly/dash |
 | Zenodo | https://zenodo.org/ |
+
+[Voltar ao sumário](#sumário)
 
 ## 3.4. Sumarização de artigos
 
@@ -136,6 +145,8 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | ASReview | https://asreview.nl/ |
 | Litstudy | https://github.com/NLeSC/litstudy?tab=readme-ov-file |
 
+[Voltar ao sumário](#sumário)
+
 ## 3.5. Revisão de literatura
 
 | Recurso | URL |
@@ -143,6 +154,8 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Head Start | https://github.com/OpenKnowledgeMaps/Headstart |
 | PoP | https://harzing.com/resources/publish-or-perish |
 | IN-Spire | https://in-spire.pnnl.gov/ |
+
+[Voltar ao sumário](#sumário)
 
 ## 3.6. Journal finder
 
@@ -158,7 +171,7 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Call for papers | http://www.wikicfp.com/cfp/ |
 | IEEE CFP | https://www.computer.org/publications/author-resources/calls-for-papers |
 
-
+[Voltar ao sumário](#sumário)
 
 ---
 # 4. Estatísticas do Scimago e outros
@@ -172,6 +185,8 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Scimago | https://www.scimagojr.com/ |
 | Scopus preview | https://www.scopus.com/home.uri |
 
+[Voltar ao sumário](#sumário)
+
 ## 4.1. Journal Metrics
 
 | Recurso | URL |
@@ -183,6 +198,8 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Scispace | https://typeset.io/journals |
 | exaly | https://exaly.com/journals/citations/ |
 
+[Voltar ao sumário](#sumário)
+
 ## 4.2. Tipos de indicadores
 
 | Recurso | URL |
@@ -190,6 +207,8 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Web of Science | Impact Factor, Immediacy Index, Cited/citing half-life, Eigenfactor |
 | Scopus | SNIP, SJR, CiteScore |
 | Google | H5-index |
+
+[Voltar ao sumário](#sumário)
 
 ---
 # 5. Python
@@ -202,12 +221,16 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | Litstudy | https://github.com/NLeSC/litstudy?tab=readme-ov-file |
 | pyBibX | https://pypi.org/project/pyBibX/ |
 
+[Voltar ao sumário](#sumário)
+
 ## 5.1. Python Data apps
 
 | Recurso | URL |
 |--- | --- |
 | Plotly | https://plotly.com/ |
 | Dash | https://github.com/plotly/dash |
+
+[Voltar ao sumário](#sumário)
 
 ---
 # 6. R
@@ -219,6 +242,8 @@ Fonte da figura: https://en.wikipedia.org/wiki/Bibliometrics#/media/File:A_synth
 | scopusAPI | https://github.com/christopherBelter/scopusAPI |
 | RQDA | http://rqda.r-forge.r-project.org/ |
 | Bookdown | https://bookdown.org/ |
+
+[Voltar ao sumário](#sumário)
 
 ---
 # 7. Mapas 3D, Mapas de palavras, Mapas de artigos
@@ -277,6 +302,8 @@ Fonte da figura: https://sci2s.ugr.es/scimat/images/resultByPeriodView.png
 
 Exemplos de visualizações com o [Litmaps](https://www.litmaps.com/features#visualize).
 
+[Voltar ao sumário](#sumário)
+
 ---
 # 8. Datasets
 
@@ -306,6 +333,8 @@ Outras fontes de datasets:
 * https://chartio.com/learn/data-analytics/where-to-find-free-datasets/ <br>
 * https://data.world/datasets/free <br>
 
+[Voltar ao sumário](#sumário)
+
 
 ## 8.1. Datasets de imagens
 
@@ -320,6 +349,7 @@ Outras fontes de datasets:
 | Sample drone data | https://www.globhe.com/sample-drone-data |
 | Free Satellite Imagery Sources | https://eos.com/blog/free-satellite-imagery-sources/ |
  
+[Voltar ao sumário](#sumário)
 
 ## 8.2. Datasets voltados para agricultura
 
@@ -335,7 +365,7 @@ Outras fontes de datasets:
 | FAO data dissemination | https://www.fao.org/statistics/data-dissemination/agrifood-systems/en |
 | FAOSTAT | https://www.fao.org/faostat/en/#home |
 
-
+[Voltar ao sumário](#sumário)
 
 ---
 # 9. Visualização de dados
@@ -354,12 +384,16 @@ Outras fontes de datasets:
 
 Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 
+[Voltar ao sumário](#sumário)
+
 ---
 # 10. Bibliometrics + github
 
 | Recurso | URL |
 |--- | --- |
 | Generate an SVG | https://github.com/cicirello/bibliometrics |
+
+[Voltar ao sumário](#sumário)
 
 ---
 # 11. Profile
@@ -371,6 +405,7 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | Sciprofile | https://sciprofiles.com/ |
 | Clarivate WoS | https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/researcher-profiles/ |
 
+[Voltar ao sumário](#sumário)
 
 ---
 # 12. BD, Catálogos de inovação, pesquisas
@@ -384,6 +419,7 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | Scopus Preview | https://www.scopus.com/ |
 | Semantic Scholar | https://www.semanticscholar.org/ |
 
+[Voltar ao sumário](#sumário)
 
 ---
 # 13. Diretórios
@@ -396,11 +432,15 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | Database index | https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines |
 | Lista de editores academicos | https://en.wikipedia.org/wiki/List_of_academic_publishers_by_preprint_policy |
 
+[Voltar ao sumário](#sumário)
+
 ## 13.1. Lista de journals predatórios
 
 | Recurso | URL |
 |--- | --- |
 | Predatóry Publishers |  https://www.openacessjournal.com/blog/predatory-publishers/ |
+
+[Voltar ao sumário](#sumário)
 
 ---
 # 14. Impact index
@@ -412,6 +452,7 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | Resurchify Journal Ranking | https://www.resurchify.com/ranking |
 | Google Scholar metrics | https://scholar.google.com/citations?view_op=metrics_intro&hl=en |
 
+[Voltar ao sumário](#sumário)
 
 ---
 # 15. Ferramentas para analytics
@@ -426,6 +467,7 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | Provalis | https://provalisresearch.com/ |
 | Quirkos | https://www.quirkos.com/index.html |
 
+[Voltar ao sumário](#sumário)
 
 # 16. Latex
 
@@ -442,7 +484,7 @@ Galeria de imagens do [RAWGraphs](https://www.rawgraphs.io/gallery).
 | ShareLatex | https://www.sharelatex.com/ |
 | Papeeria | https://papeeria.com/ |  
 
-
+[Voltar ao sumário](#sumário)
 
 ## 16.2. Editores latex
 
@@ -461,6 +503,9 @@ Exemplo de um editor latex, abaixo uma captura de tela do Lyx:
 ![https://www.lyx.org/images/about/main_window.png](https://www.lyx.org/images/about/main_window.png)
 
 Fonte da figura: https://www.lyx.org/images/about/main_window.png
+
+[Voltar ao sumário](#sumário)
+
 
 ## 16.3. Comandos básicos para formatação dentro do Latex
 
@@ -512,6 +557,8 @@ Parâmetros usados entre []
 * p	Em uma pagina flutuando
 * !	Sobre escreve os parâmetros do latex e força o posicionamento
 * H	é o equivalento ao h!, força o posicionamento na posição determinada
+
+[Voltar ao sumário](#sumário)
 
 
 ## 16.4. Exemplo de formatação bibtex
@@ -607,6 +654,7 @@ URL = {},
 }
 ```
 
+[Voltar ao sumário](#sumário)
 
 ---
 # 17. Outras ferramentas e + referências
@@ -624,8 +672,9 @@ URL = {},
 | Lista de ferramentas bibliomáticas | https://en.wikipedia.org/wiki/List_of_bibliometrics_software |
 | List of datasets for machine-learning research | https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research |
 
+[Voltar ao sumário](#sumário)
 
-
+---
 # 18. Preprints
 
 
@@ -648,30 +697,51 @@ URL = {},
 | PsyArXiv | https://osf.io/preprints/psyarxiv |
 | SOCAriv | https://osf.io/preprints/socarxiv |
 
-# 19 Nuvem de palavras
+[Voltar ao sumário](#sumário)
+
+---
+# 19. Nuvem de palavras
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Web_2.0_Map.svg/1280px-Web_2.0_Map.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Web_2.0_Map.svg/1280px-Web_2.0_Map.svg.png)
 
 Caso a lista de palavras já exista:
+
 https://www.freewordcloudgenerator.com/generatewordcloud
+
 https://www.wordclouds.com/
+
 https://monkeylearn.com/word-cloud
+
 https://tagcrowd.com/
 
 Script python para ler artigos em PDF e gerar a nuvem de palavras:
+
 https://nanx.me/blog/post/research-word-cloud/
+
 https://towardsdatascience.com/pdfs-to-word-cloud-in-3-steps-73ccbff6d835
+
 https://gist.github.com/Dntfreitas/d157201f2f8cb51004b996cccf85c80f
+
 https://www.datacamp.com/tutorial/wordcloud-python
+
 https://github.com/piyushkhemka/Pdf-to-Word-Cloud
+
 https://medium.com/@jonsolow/create-your-own-wordcloud-in-python-e70d15f2b863
+
 https://www.youtube.com/watch?v=QC6sEwQcqdY
+
 https://amueller.github.io/word_cloud/index.html
+
 https://github.com/amueller/word_cloud
+
 https://blog.finxter.com/how-to-create-word-clouds-using-python/
+
 https://datamahadev.com/generating-word-clouds-using-python/
+
 https://medium.com/@natashanewbold/creating-a-wordcloud-using-python-a905efc3c288
+
 https://towardsdatascience.com/word-clouds-in-python-comprehensive-example-8aee4343c0bf
+
 https://betterprogramming.pub/create-custom-word-clouds-in-python-841563933e73
 
 Artigo sobre nuvem de palavras com python:
@@ -680,6 +750,9 @@ https://www.sciencedirect.com/science/article/pii/S1877705817302230
 Outras fontes:
 https://coolinfographics.com/word-clouds
 
+[Voltar ao sumário](#sumário)
+
+---
 # 20. Recordando etapas da pesquisa acadêmica
 
 Etapas de uma pesquisa acadêmica irão fornecer dados para a elaboração do artigo científico, e nestas etapas podem ser usadas várias ferramentas citadas nesta página:
@@ -730,7 +803,7 @@ Apresentação dos Resultados:
 
 13. Apresentação oral ou escrita dos resultados em conferências, seminários, ou outros fóruns acadêmicos.
 
-
+[Voltar ao sumário](#sumário)
 
 ---
 # Avisos, licença, observações, estatísticas
