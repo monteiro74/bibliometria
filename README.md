@@ -43,7 +43,8 @@
   - [16.4. Exemplo de formatação bibtex](#164-exemplo-de-formatação-bibtex)
 - [17. Outras ferramentas e + referências](#17-outras-ferramentas-e--referências)
 - [18. Preprints](#18-preprints)
-- [19. Recordando etapas da pesquisa acadêmica](#19-recordando-etapas-da-pesquisa-acadêmica)
+- [19 Nuvem de palavras](#19-nuvem-de-palavras)
+- [20. Recordando etapas da pesquisa acadêmica](#20-recordando-etapas-da-pesquisa-acadêmica)
 - [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
 
 
@@ -648,7 +649,39 @@ URL = {},
 | PsyArXiv | https://osf.io/preprints/psyarxiv |
 | SOCAriv | https://osf.io/preprints/socarxiv |
 
-# 19. Recordando etapas da pesquisa acadêmica
+# 19 Nuvem de palavras
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Web_2.0_Map.svg/1280px-Web_2.0_Map.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Web_2.0_Map.svg/1280px-Web_2.0_Map.svg.png)
+
+Caso a lista de palavras já exista:
+https://www.freewordcloudgenerator.com/generatewordcloud
+https://www.wordclouds.com/
+https://monkeylearn.com/word-cloud
+https://tagcrowd.com/
+
+Script python para ler artigos em PDF e gerar a nuvem de palavras:
+https://nanx.me/blog/post/research-word-cloud/
+https://towardsdatascience.com/pdfs-to-word-cloud-in-3-steps-73ccbff6d835
+https://gist.github.com/Dntfreitas/d157201f2f8cb51004b996cccf85c80f
+https://www.datacamp.com/tutorial/wordcloud-python
+https://github.com/piyushkhemka/Pdf-to-Word-Cloud
+https://medium.com/@jonsolow/create-your-own-wordcloud-in-python-e70d15f2b863
+https://www.youtube.com/watch?v=QC6sEwQcqdY
+https://amueller.github.io/word_cloud/index.html
+https://github.com/amueller/word_cloud
+https://blog.finxter.com/how-to-create-word-clouds-using-python/
+https://datamahadev.com/generating-word-clouds-using-python/
+https://medium.com/@natashanewbold/creating-a-wordcloud-using-python-a905efc3c288
+https://towardsdatascience.com/word-clouds-in-python-comprehensive-example-8aee4343c0bf
+https://betterprogramming.pub/create-custom-word-clouds-in-python-841563933e73
+
+Artigo sobre nuvem de palavras com python:
+https://www.sciencedirect.com/science/article/pii/S1877705817302230
+
+Outras fontes:
+https://coolinfographics.com/word-clouds
+
+# 20. Recordando etapas da pesquisa acadêmica
 
 Etapas de uma pesquisa acadêmica irão fornecer dados para a elaboração do artigo científico, e nestas etapas podem ser usadas várias ferramentas citadas nesta página:
 
