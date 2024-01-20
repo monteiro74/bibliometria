@@ -49,7 +49,6 @@
 
 
 
-
 O que é bibliometria, infometria e cientometria ?
 
 **Bibliometria** é a utilização de métodos estatísticos para analisar livros, artigos e outras publicações, especialmente em conteúdos científicos. Os métodos bibliométricos são frequentemente usados ​​no campo da biblioteconomia e da ciência da informação. A bibliometria está intimamente associada à cienciometria, à análise de métricas e indicadores científicos, a tal ponto que ambos os campos se sobrepõem em grande parte. Fonte: https://en.wikipedia.org/wiki/Bibliometrics
